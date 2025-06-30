@@ -5,5 +5,26 @@
   </head>
   <body>
     <h1>This is my Website</h1>
+
+    <!-- Iframe placed properly inside body -->
+    <iframe title="Ranking of Dog Names" aria-label="Table" id="datawrapper-chart-vfWYP" src="https://datawrapper.dwcdn.net/vfWYP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="469" data-external="1"></iframe>
+
+    <!-- Script properly placed below -->
+    <script type="text/javascript">
+      (function(){
+        "use strict";
+        window.addEventListener("message", function(a){
+          if (void 0 !== a.data["datawrapper-height"]) {
+            var e = document.querySelectorAll("iframe");
+            for (var t in a.data["datawrapper-height"])
+              for (var i = 0, r; r = e[i]; i++)
+                if (r.contentWindow === a.source) {
+                  var d = a.data["datawrapper-height"][t] + "px";
+                  r.style.height = d;
+                }
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
