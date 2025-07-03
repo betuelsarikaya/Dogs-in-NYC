@@ -1,0 +1,442 @@
+,BreedName,ZipCode,counts
+0,Chihuahua,10001,200
+1,Yorkshire Terrier,10002,408
+2,Chihuahua,10003,312
+3,French Bulldog,10004,43
+4,French Bulldog,10005,100
+5,Chihuahua,10006,48
+6,Shih Tzu,10007,87
+7,Poodle,10008,5
+8,Yorkshire Terrier,10009,487
+9,Yorkshire Terrier,10010,237
+10,French Bulldog,10011,519
+11,Labrador Retriever,10012,254
+12,Labrador Retriever,10013,162
+13,Labrador Retriever,10014,361
+14,French Bulldog,10015,1
+15,Yorkshire Terrier,10016,358
+16,Chihuahua,10017,162
+17,Yorkshire Terrier,10018,101
+18,Chihuahua,10019,474
+19,Havanese,10020,6
+20,Havanese,10021,391
+21,Yorkshire Terrier,10022,254
+22,Labrador Retriever,10023,612
+23,Labrador Retriever,10024,649
+24,Labrador Retriever,10025,789
+25,Yorkshire Terrier,10026,179
+26,Chihuahua,10027,243
+27,Havanese,10028,405
+28,Yorkshire Terrier,10029,754
+29,Yorkshire Terrier,10030,160
+30,Chihuahua,10031,226
+31,Yorkshire Terrier,10032,289
+32,Yorkshire Terrier,10033,327
+33,Yorkshire Terrier,10034,215
+34,Shih Tzu,10035,210
+35,Chihuahua,10036,309
+36,Yorkshire Terrier,10037,159
+37,Chihuahua,10038,202
+38,Yorkshire Terrier,10039,174
+39,Yorkshire Terrier,10040,197
+40,Pomeranian,10041,2
+41,Yorkshire Terrier,10044,54
+42,French Bulldog,10045,1
+43,Shih Tzu,10046,1
+44,American Staffordshire Terrier,10048,2
+45,Morkie,10050,1
+46,Maltipoo,10055,1
+47,Labrador Retriever,10065,266
+48,Miniature American Shepherd,10067,1
+49,Yorkshire Terrier,10068,1
+50,Labrador Retriever,10069,81
+51,Havanese,10075,224
+52,Shih Tzu,10101,5
+53,Poodle Crossbreed,10105,2
+54,Australian Shepherd,10107,1
+55,Border Terrier,10108,5
+56,Terrier mix,10111,3
+57,Golden Retriever Crossbreed,10112,2
+58,Chihuahua Crossbreed,10113,3
+59,Labrador Retriever Crossbreed,10115,1
+60,Shih Tzu,10116,3
+61,Dachshund Smooth Coat,10118,1
+62,Yorkshire Terrier,10119,9
+63,Australian Shepherd,10120,1
+64,Cocker Spaniel Crossbreed,10123,5
+65,Australian Shepherd,10125,2
+66,Cavalier King Charles Spaniel,10126,2
+67,Labrador Retriever,10128,531
+68,Brittany Spaniel,10129,5
+69,Golden Retriever,10150,11
+70,"Poodle, Miniature",10151,3
+71,Labrador Retriever,10155,4
+72,Chihuahua,10156,5
+73,Shih Tzu,10159,10
+74,Havanese,10162,19
+75,Beagle,10163,6
+76,Labrador Retriever,10165,2
+77,Poodle Crossbreed,10168,2
+78,Lhasa Apso,10169,1
+79,Chihuahua,10175,1
+80,French Bulldog,10176,1
+81,"Welsh Corgi, Cardigan",10179,2
+82,Jack Russell Terrier,10185,7
+83,Pomeranian,10216,2
+84,Terrier Crossbreed,10217,1
+85,Golden Retriever,10244,1
+86,Poodle,10247,1
+87,Yorkshire Terrier,10262,1
+88,Boston Terrier,10268,1
+89,Shih Tzu Crossbreed,10272,7
+90,Shih Tzu,10275,1
+91,Havanese,10276,3
+92,Labrador Retriever,10280,100
+93,Maltese,10281,6
+94,French Bulldog,10282,53
+95,Poodle Crossbreed,10283,1
+96,Poodle,10295,1
+97,Labrador Retriever,10301,224
+98,Yorkshire Terrier,10302,116
+99,Yorkshire Terrier,10303,183
+100,Yorkshire Terrier,10304,343
+101,Shih Tzu,10305,334
+102,Shih Tzu,10306,588
+103,Yorkshire Terrier,10307,106
+104,Shih Tzu,10308,322
+105,Shih Tzu,10309,411
+106,Yorkshire Terrier,10310,183
+107,Shih Tzu,10312,767
+108,Beagle,10313,6
+109,Shih Tzu,10314,717
+110,Maltese,10315,2
+111,American Eskimo dog,10333,2
+112,Maltese Crossbreed,10362,1
+113,Poodle Crossbreed,10370,2
+114,Yorkshire Terrier,10373,1
+115,Jack Russell Terrier,10407,1
+116,Welsh Terrier,10408,2
+117,Morkie,10422,1
+118,Yorkshire Terrier,10428,1
+119,Maltese Crossbreed,10450,1
+120,Yorkshire Terrier,10451,252
+121,Yorkshire Terrier,10452,285
+122,Yorkshire Terrier,10453,281
+123,Yorkshire Terrier,10454,242
+124,Yorkshire Terrier,10455,181
+125,Yorkshire Terrier,10456,359
+126,Yorkshire Terrier,10457,255
+127,Yorkshire Terrier,10458,249
+128,Yorkshire Terrier,10459,230
+129,Yorkshire Terrier,10460,360
+130,Shih Tzu,10461,334
+131,Yorkshire Terrier,10462,550
+132,Yorkshire Terrier,10463,414
+133,Labrador Retriever,10464,44
+134,Shih Tzu,10465,362
+135,Yorkshire Terrier,10466,246
+136,Yorkshire Terrier,10467,431
+137,Yorkshire Terrier,10468,252
+138,Shih Tzu,10469,294
+139,American Pit Bull Mix / Pit Bull Mix,10470,42
+140,Shih Tzu,10471,135
+141,Yorkshire Terrier,10472,305
+142,Shih Tzu,10473,505
+143,Shih Tzu,10474,55
+144,Yorkshire Terrier,10475,299
+145,Maltese,10476,1
+146,French Bulldog,10495,1
+147,Jack Russell Terrier,10501,1
+148,Shih Tzu Crossbreed,10505,1
+149,Terrier Crossbreed,10506,3
+150,Welsh Terrier,10507,1
+151,Yorkshire Terrier,10511,1
+152,German Shepherd Crossbreed,10512,3
+153,Goldendoodle,10514,1
+154,American Pit Bull Mix / Pit Bull Mix,10520,4
+155,Poodle Crossbreed,10522,1
+156,American Eskimo dog,10523,1
+157,German Shepherd Crossbreed,10526,4
+158,Beagle Crossbreed,10528,1
+159,Chihuahua,10530,7
+160,German Shepherd Dog,10533,1
+161,American Pit Bull Mix / Pit Bull Mix,10536,1
+162,Bichon Frise,10538,1
+163,Yorkshire Terrier,10541,3
+164,German Shepherd Dog,10543,1
+165,Labrador Retriever Crossbreed,10548,1
+166,Poodle Crossbreed,10549,2
+167,Maltipoo,10550,4
+168,Silky Terrier,10552,3
+169,Puggle,10553,2
+170,Dachshund,10562,2
+171,Siberian Husky,10566,2
+172,Pomeranian Crossbreed,10567,6
+173,Bichon Frise,10569,1
+174,Shih Tzu Crossbreed,10570,2
+175,Bulldog,10573,3
+176,"Dachshund, Long Haired Miniature",10576,1
+177,Dachshund,10577,3
+178,Chihuahua,10580,1
+179,Shih Tzu,10583,6
+180,Bichon Frise,10589,1
+181,Australian Shepherd,10591,2
+182,Havanese,10595,1
+183,Maltese,10598,1
+184,Chihuahua Crossbreed,10601,2
+185,Miniature Schnauzer,10603,4
+186,Shih Tzu Crossbreed,10604,1
+187,Boston Terrier,10605,10
+188,American Pit Bull Mix / Pit Bull Mix,10606,1
+189,Yorkshire Terrier,10701,12
+190,Jack Russell Terrier,10703,7
+191,Yorkshire Terrier,10704,14
+192,Shih Tzu Crossbreed,10705,7
+193,Poodle Crossbreed,10706,4
+194,Maltese Crossbreed,10707,2
+195,French Bulldog,10708,6
+196,Golden Retriever,10710,4
+197,Poodle,10801,6
+198,Australian Shepherd,10803,3
+199,Havanese,10804,1
+200,Shepard Crossbreed,10805,4
+201,Labrador Retriever,10901,5
+202,American Bully,10918,2
+203,Maltese,10920,3
+204,Boston Terrier,10925,2
+205,Shih Tzu Crossbreed,10926,2
+206,Labrador Retriever Crossbreed,10927,3
+207,Siberian Husky,10930,4
+208,Labrador Retriever,10933,13
+209,German Shepherd Crossbreed,10940,6
+210,Shih Tzu,10941,2
+211,Beagle Crossbreed,10950,6
+212,Shih Tzu,10952,1
+213,Shih Tzu,10954,2
+214,Morkie,10956,5
+215,Yorkshire Terrier Crossbreed,10958,2
+216,Bernese Mountain Dog,10960,1
+217,"Bull Dog, English",10962,2
+218,Pomeranian Crossbreed,10964,1
+219,Shepard Crossbreed,10965,2
+220,Boxer,10968,1
+221,Siberian Husky Crossbreed,10970,2
+222,Poodle Crossbreed,10971,2
+223,Pomeranian Crossbreed,10977,2
+224,Maltese Crossbreed,10980,2
+225,Maltese Crossbreed,10983,1
+226,Cocker Spaniel Crossbreed,10984,1
+227,Chihuahua,10987,1
+228,Boxer,10989,1
+229,Jack Russell Terrier,10990,3
+230,Ibizan Hound,10992,3
+231,Cocker Spaniel,10993,2
+232,Beagle Crossbreed,10996,2
+233,Shih Tzu,11001,20
+234,Cavalier King Charles Spaniel,11002,1
+235,American Pit Bull Terrier/Pit Bull,11003,6
+236,Yorkshire Terrier,11004,60
+237,Papillon,11005,5
+238,Cockapoo,11007,1
+239,West High White Terrier,11010,8
+240,Yorkshire Terrier,11016,1
+241,Shih Tzu,11020,3
+242,Border Collie,11021,4
+243,Havanese,11023,2
+244,Maltese,11024,2
+245,Boston Terrier,11025,1
+246,Pomeranian,11026,6
+247,Rottweiler Crossbreed,11030,3
+248,Shiba Inu,11037,2
+249,Maltese,11040,22
+250,Shiba Inu,11050,5
+251,Yorkshire Terrier,11094,4
+252,Brussels Griffon,11096,7
+253,Chihuahua,11101,273
+254,Chihuahua,11102,188
+255,Chihuahua,11103,137
+256,Chihuahua,11104,157
+257,Chihuahua,11105,184
+258,Shih Tzu,11106,199
+259,Pomeranian,11108,1
+260,Labrador Retriever Crossbreed,11109,61
+261,Labrador Retriever,11122,1
+262,Morkie,11123,3
+263,Lhasa Apso,11134,2
+264,Yorkshire Terrier,11141,5
+265,Labrador Retriever,11201,540
+266,"Poodle, Toy",11202,7
+267,Shih Tzu,11203,232
+268,Yorkshire Terrier,11204,292
+269,Labrador Retriever Crossbreed,11205,171
+270,Yorkshire Terrier,11206,533
+271,Yorkshire Terrier,11207,437
+272,Shih Tzu,11208,352
+273,Shih Tzu,11209,586
+274,Shih Tzu,11210,147
+275,Chihuahua,11211,290
+276,Yorkshire Terrier,11212,340
+277,Shih Tzu,11213,145
+278,Yorkshire Terrier,11214,550
+279,Labrador Retriever Crossbreed,11215,682
+280,American Pit Bull Mix / Pit Bull Mix,11216,230
+281,Labrador Retriever Crossbreed,11217,323
+282,Labrador Retriever Crossbreed,11218,315
+283,Yorkshire Terrier,11219,198
+284,Yorkshire Terrier,11220,439
+285,Chihuahua,11221,332
+286,Chihuahua,11222,271
+287,Shih Tzu,11223,382
+288,Yorkshire Terrier,11224,396
+289,Yorkshire Terrier,11225,186
+290,Yorkshire Terrier,11226,298
+291,Shih Tzu,11228,315
+292,Shih Tzu,11229,482
+293,Yorkshire Terrier,11230,240
+294,Labrador Retriever Crossbreed,11231,284
+295,Yorkshire Terrier,11232,136
+296,Yorkshire Terrier,11233,244
+297,Yorkshire Terrier,11234,532
+298,Yorkshire Terrier,11235,438
+299,Yorkshire Terrier,11236,330
+300,Yorkshire Terrier,11237,234
+301,Labrador Retriever Crossbreed,11238,364
+302,Yorkshire Terrier,11239,255
+303,Labrador Retriever Crossbreed,11243,8
+304,Labrador Retriever,11246,2
+305,Bichon Frise Crossbreed,11247,2
+306,Yorkshire Terrier,11249,160
+307,Bichon Frise Crossbreed,11256,1
+308,Morkie,11274,1
+309,Terrier mix,11280,1
+310,Maltese,11287,1
+311,Shih Tzu,11298,1
+312,Maltese,11301,1
+313,Havanese,11305,2
+314,Maltipoo,11309,2
+315,Pug Crossbreed,11313,1
+316,Cavalier King Charles Spaniel,11315,3
+317,Australian Shepherd,11337,6
+318,Yorkshire Terrier,11338,1
+319,Chihuahua Crossbreed,11341,3
+320,Poodle,11342,1
+321,Shih Tzu,11344,1
+322,Havanese,11345,1
+323,Bichon Frise Crossbreed,11346,1
+324,Chihuahua Crossbreed,11347,1
+325,Shih Tzu,11350,1
+326,Maltese,11351,1
+327,Labrador Retriever Crossbreed,11352,6
+328,Poodle,11353,2
+329,Yorkshire Terrier,11354,243
+330,Maltese,11355,189
+331,Yorkshire Terrier,11356,107
+332,Maltese,11357,239
+333,Shih Tzu,11358,177
+334,Bichon Frise Crossbreed,11359,2
+335,Yorkshire Terrier,11360,133
+336,Yorkshire Terrier,11361,169
+337,Shih Tzu,11362,109
+338,Shih Tzu,11363,41
+339,Maltese,11364,153
+340,Yorkshire Terrier,11365,205
+341,Yorkshire Terrier,11366,122
+342,Yorkshire Terrier,11367,191
+343,Shih Tzu,11368,336
+344,Shih Tzu,11369,150
+345,Shih Tzu,11370,133
+346,Shih Tzu,11372,340
+347,Shih Tzu,11373,314
+348,Yorkshire Terrier,11374,168
+349,Shih Tzu,11375,338
+350,Shih Tzu Crossbreed,11376,8
+351,Shih Tzu,11377,330
+352,Yorkshire Terrier,11378,284
+353,Shih Tzu,11379,302
+354,American Pit Bull Terrier/Pit Bull,11381,2
+355,Shih Tzu,11384,1
+356,Yorkshire Terrier,11385,605
+357,Shih Tzu,11386,4
+358,Chihuahua,11388,1
+359,German Shepherd Dog,11397,1
+360,Yorkshire Terrier,11411,88
+361,Yorkshire Terrier,11412,144
+362,Yorkshire Terrier,11413,146
+363,Yorkshire Terrier,11414,229
+364,Chihuahua,11415,103
+365,Shih Tzu,11416,109
+366,Yorkshire Terrier,11417,159
+367,Yorkshire Terrier,11418,168
+368,Shih Tzu,11419,111
+369,Yorkshire Terrier,11420,156
+370,Yorkshire Terrier,11421,231
+371,Yorkshire Terrier,11422,101
+372,Yorkshire Terrier,11423,85
+373,Pomeranian,11424,4
+374,Labrador Retriever Crossbreed,11425,6
+375,Shih Tzu,11426,76
+376,Shih Tzu,11427,87
+377,Shih Tzu,11428,52
+378,Shih Tzu,11429,72
+379,"Schnauzer, Miniature",11430,2
+380,Poodle Crossbreed,11431,3
+381,Yorkshire Terrier,11432,145
+382,Yorkshire Terrier,11433,107
+383,Yorkshire Terrier,11434,215
+384,Yorkshire Terrier,11435,209
+385,Shih Tzu,11436,70
+386,Shih Tzu,11437,1
+387,Yorkshire Terrier,11439,3
+388,American Pit Bull Mix / Pit Bull Mix,11452,2
+389,Pomeranian,11453,4
+390,Pomeranian,11461,2
+391,Yorkshire Terrier,11469,1
+392,Maltese Crossbreed,11478,2
+393,Shiba Inu,11501,4
+394,Terrier mix,11508,1
+395,Golden Retriever,11509,1
+396,Yorkshire Terrier Crossbreed,11510,4
+397,Havanese,11516,2
+398,Bulldog,11518,6
+399,Poodle,11520,2
+400,Shih Tzu,11530,3
+401,Cocker Spaniel,11542,4
+402,Bichon Frise Crossbreed,11545,2
+403,Chihuahua,11548,2
+404,Shih Tzu,11550,9
+405,Maltese,11552,4
+406,Goldendoodle,11553,2
+407,Pomeranian,11554,8
+408,Pomeranian,11557,2
+409,Lhasa Apso,11558,2
+410,Puggle,11559,2
+411,Labrador Retriever,11560,2
+412,"Poodle, Toy",11561,6
+413,"Poodle, Toy",11563,2
+414,Affenpinscher,11565,1
+415,Morkie,11566,5
+416,Border Collie,11569,1
+417,"Poodle, Toy",11570,4
+418,Maltese,11572,6
+419,Poodle Crossbreed,11575,3
+420,Maltese,11576,6
+421,French Bulldog,11577,2
+422,Goldendoodle,11578,2
+423,Yorkshire Terrier,11579,2
+424,Bichon Frise,11580,8
+425,Siberian Husky,11581,8
+426,Poodle,11582,2
+427,Yorkshire Terrier,11590,10
+428,Poodle Crossbreed,11596,6
+429,French Bulldog,11598,2
+430,"Poodle, Toy",11630,2
+431,Chihuahua,11631,1
+432,Maltese Crossbreed,11638,1
+433,Cavalier King Charles Spaniel Crossbreed,11647,1
+434,Yorkshire Terrier,11690,10
+435,Shih Tzu,11691,141
+436,Yorkshire Terrier,11692,117
+437,Yorkshire Terrier,11693,110
+438,Shih Tzu,11694,116
+439,Yorkshire Terrier,11695,1
+440,Labrador Retriever,11697,39

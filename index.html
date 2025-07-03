@@ -3,53 +3,93 @@
 <head>
     <meta charset="UTF-8">
     <title>Dogs in New York City</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital@0;1&display=swap" rel="stylesheet">
     <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
         body {
-            font-family: 'Roboto', sans-serif;
+            font-family: 'Inter', sans-serif;
             margin: 0;
             padding: 0;
-            line-height: 1.6;
+            background: #f5f4f1;
+            color: #4a4a4a;
+            line-height: 2;
         }
-        header {
-            background-image: url('https://images.unsplash.com/photo-1617814071759-3f544f0b7338?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80');
-            background-size: cover;
-            background-position: center;
-            color: white;
-            padding: 60px 20px;
-            text-align: center;
+        .header-video-container {
+            position: relative;
+            height: 300px;
+            overflow: hidden;
+            border-bottom: none;
         }
-        footer {
-            background: #333;
-            color: #fff;
-            padding: 20px;
+        .header-video-container video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            filter: grayscale(10%) brightness(0.7);
         }
         .content {
-            padding: 20px;
-            max-width: 900px;
+            padding: 40px 20px;
+            max-width: 800px;
             margin: 0 auto;
         }
-        h1, h2 {
-            color: #333;
+
+        a:link { 
+            color:darkslategray;
         }
-        header h1 {
-            color: white;
+
+        a:hover { 
+            color:lightsteelblue
+        }
+        
+        h1 {
+            font-size: 3em;
+            font-weight: 700;
+            margin-top: 1em;
+            margin-bottom: 1em;
+            text-align: center;
+            color: #4a4a4a;
+        }
+        h2 {
+            font-size: 2em;
+            font-weight: 700;
+            margin-top: 2em;
+            margin-bottom: 0.5em;
+            text-align: center;
+            color: #4a4a4a;
+        }
+        p {
+            font-size: 1em;
+            margin-bottom: 1.5em;
         }
         iframe {
             width: 100%;
             border: none;
+            margin: 30px 0;
         }
-        .image-container img {
+        .article-image {
             width: 100%;
             height: auto;
-            margin-top: 20px;
+            margin: 30px 0;
+            filter: grayscale(10%) brightness(0.7);
+        
         }
+
+        figcaption {
+            font-size: x-small;
+        }
+
+
         .video-container {
             position: relative;
             overflow: hidden;
             width: 100%;
             padding-top: 56.25%;
-            margin-top: 20px;
+            margin-top: 30px;
+            border: 1px solid #000;
         }
         .video-container video {
             position: absolute;
@@ -58,9 +98,20 @@
             width: 100%;
             height: 100%;
             object-fit: cover;
+            filter: grayscale(100%);
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9em;
+            border-top: 1px solid #000;
         }
         @media (max-width: 600px) {
             h1 {
+                font-size: 2em;
+            }
+
+            h2 {
                 font-size: 1.5em;
             }
         }
@@ -68,12 +119,56 @@
 </head>
 <body>
 
-<header>
-    <h1>Dogs in New York City</h1>
-</header>
+<div class="header-video-container">
+    <video autoplay muted loop playsinline>
+        <source src="header-video.mp4" type="video/mp4">
+    </video>
+</div>
 
 <div class="content">
-    <p>Welcome to my website about dogs in New York City. Here you will find interesting facts, statistics, and more!</p>
+    <h1>big apple dogs</h1>
+
+    <p>As in any city with a stark divide between wealth and less affluent areas, 
+        I notice the visible signs of affluence among people on the streets in various ways. 
+        In major cities, especially in wealthy neighborhoods, this is often reflected pet ownership.
+        It's not just about the pet itself, but the entire infrastructure surrounding it.
+        There are specialty delicatessens for dogs, special menu items in ice cream shops or coffee shops just for dogs, 
+        such as a “puppuccino” or a scoop of ice cream for the beloved family member. </p>
+    <p>
+        Then there are dog groomers, and in upscale buildings, you might even find dedicated pet spas, doggy daycares, and so on.
+        According to NYCEDC there are 600,000 dogs in the city. 
+        What particularly stood out to me in my neighborhood, the Upper West Side, were all the poodles. This made me wonder which dog breeds are most popular in which parts of the city, so I decided to visualize this data. My map shows the most popular dog breed by zip code in NYC.</p>
+
+        <h2>most popular breeds across nyc</h2>
+    <iframe 
+        title="breeds per zipcode" 
+        aria-label="Map" 
+        id="datawrapper-chart-ixc4Q" 
+        src="https://datawrapper.dwcdn.net/ixc4Q/1/" 
+        scrolling="no" 
+        height="629" 
+        data-external="1">
+    </iframe>
+
+    <p>It seems especially around large parks, like Central Park or Prospect Park, Labradors are very popular, so larger dogs. That also makes sense considering the space to run around. 
+        The data itself comes from <a href=https://data.cityofnewyork.us/Health/NYC-Dog-Licensing-Dataset/nu7n-tubp/about_data>NYC Open Data.</a> Unfortunately, for many dogs, the breed is not specified and is instead listed as "unknown." 
+        Therefore, this map is only partially reliable. It reflects the current state of the available data, but reality may, of course, differ.</p>
+    
+
+    <p> <a href="https://www.tandfonline.com/doi/full/10.1080/08927936.2024.2384211">A study from Denmark</a> shows: dog ownership was not found to be linked with income, education, or occupation when life course and lifestyle factors were taken into account. 
+        But people with higher income are more likely to own a dog from a breeder. </p>
+    
+   
+    <p> Of the highest income group in the study, 69% of dogs come from breeders, while in the lowest income group, it is only 43%. Mixed-breed dogs are more common in the lowest income group (32%) and less common in the highest income group (8%).</p>
+   
+    <img src="image3-bg.jpg" alt="Beagle in New York City" class="article-image">
+    <figcaption>photo: Unsplash/Anthony Fomin</figcaption>
+
+    <p>Dogs evolved from wolves and were domesticated by humans between <a href"https://pmc.ncbi.nlm.nih.gov/articles/PMC10218297/">20,000 and 40,000 years ago</a>during the Stone Age. This process likely began when some wolves became less aggressive and started 
+        scavenging near human settlements, leading to a mutually beneficial relationship. 
+        Genetic studies suggest dogs were domesticated either once in a single region or possibly independently in Europe and East Asia</p>
+
+    <img src="dogs-nyc.jpg" alt="Dogs in New York City" class="article-image">
 
     <h2>Ranking of Dog Names</h2>
     <iframe 
@@ -86,34 +181,9 @@
         data-external="1">
     </iframe>
 
-    <h2>Most Popular Breeds</h2>
-    <iframe 
-        title="Popular Dog Breeds" 
-        aria-label="Table" 
-        id="datawrapper-chart-abc123" 
-        src="https://datawrapper.dwcdn.net/abc123/1/" 
-        scrolling="no" 
-        height="469" 
-        data-external="1">
-    </iframe>
+   
 
-    <div class="image-container">
-        <h2>Dogs Around the City</h2>
-        <img src="dogs-nyc.jpg" alt="Dogs in New York City">
-    </div>
-
-    <div class="video-container">
-        <h2>Dogs Playing in Central Park</h2>
-        <video autoplay muted loop playsinline>
-            <source src="bg-video.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </div>
 </div>
-
-<footer>
-    <p>&copy; 2024 Dogs NYC. All rights reserved.</p>
-</footer>
 
 <script type="text/javascript">
 (function(){

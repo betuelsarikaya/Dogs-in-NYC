@@ -1,0 +1,1595 @@
+,BreedName,Count,Share
+0,Unknown,69471,9.61
+1,Yorkshire Terrier,40224,5.56
+2,Shih Tzu,37108,5.13
+3,Chihuahua,28086,3.89
+4,Labrador Retriever,21852,3.02
+5,Maltese,20858,2.89
+6,Labrador Retriever Crossbreed,19334,2.67
+7,American Pit Bull Mix / Pit Bull Mix,17271,2.39
+8,Shih Tzu Crossbreed,14549,2.01
+9,Pomeranian,13984,1.93
+10,Poodle Crossbreed,13440,1.86
+11,American Pit Bull Terrier/Pit Bull,13131,1.82
+12,Havanese,12265,1.7
+13,Chihuahua Crossbreed,11548,1.6
+14,Golden Retriever,10890,1.51
+15,French Bulldog,10839,1.5
+16,Beagle,10178,1.41
+17,German Shepherd Dog,10130,1.4
+18,Goldendoodle,10115,1.4
+19,Terrier mix,9493,1.31
+20,Poodle,9167,1.27
+21,Shiba Inu,8816,1.22
+22,Cavalier King Charles Spaniel,8528,1.18
+23,Jack Russell Terrier,8068,1.12
+24,"Poodle, Toy",7671,1.06
+25,Siberian Husky,7427,1.03
+26,Yorkshire Terrier Crossbreed,7295,1.01
+27,German Shepherd Crossbreed,7204,1.0
+28,"Poodle, Miniature",7005,0.97
+29,Maltese Crossbreed,6954,0.96
+30,Australian Shepherd,6848,0.95
+31,Cocker Spaniel,6710,0.93
+32,Pug,6382,0.88
+33,Labradoodle,6255,0.87
+34,Boston Terrier,6189,0.86
+35,Dachshund,5916,0.82
+36,Morkie,5773,0.8
+37,Bichon Frise,5666,0.78
+38,Beagle Crossbreed,5664,0.78
+39,Maltipoo,5324,0.74
+40,Terrier Crossbreed,4521,0.63
+41,Bichon Frise Crossbreed,4451,0.62
+42,Boxer,4429,0.61
+43,American Staffordshire Terrier,4267,0.59
+44,Miniature Schnauzer,4071,0.56
+45,"Schnauzer, Miniature",4064,0.56
+46,Miniature Pinscher,4018,0.56
+47,"Poodle, Standard",3905,0.54
+48,"Bull Dog, English",3824,0.53
+49,Puggle,3394,0.47
+50,Cockapoo,3264,0.45
+51,Dachshund Smooth Coat,2948,0.41
+52,Lhasa Apso,2875,0.4
+53,Miniature Australian Shepherd,2872,0.4
+54,Rottweiler,2695,0.37
+55,"Bull Dog, French",2614,0.36
+56,Pekingese,2548,0.35
+57,Dachshund Smooth Coat Miniature,2543,0.35
+58,"Jindo Dog, Korea",2452,0.34
+59,Pembroke Welsh Corgi,2431,0.34
+60,Shepard Crossbreed,2384,0.33
+61,Border Collie,2334,0.32
+62,Dachshund Crossbreed,2263,0.31
+63,Pomeranian Crossbreed,2245,0.31
+64,Cairn Terrier,2199,0.3
+65,Australian Cattledog,2197,0.3
+66,American Bully,2161,0.3
+67,"Dachshund, Long Haired Miniature",1993,0.28
+68,"Welsh Corgi, Pembroke",1886,0.26
+69,West High White Terrier,1805,0.25
+70,Bernese Mountain Dog,1773,0.25
+71,Wheaton Terrier,1753,0.24
+72,Papillon,1750,0.24
+73,Jack Russell Terrier Crossbreed,1740,0.24
+74,Cocker Spaniel Crossbreed,1688,0.23
+75,Siberian Husky Crossbreed,1671,0.23
+76,Staffordshire Bull Terrier,1647,0.23
+77,Rat Terrier,1631,0.23
+78,Jindo,1615,0.22
+79,Cavalier King Charles Spaniel Crossbreed,1561,0.22
+80,Australian Cattle Dog,1548,0.21
+81,American Eskimo dog,1486,0.21
+82,Border Collie Crossbreed,1468,0.2
+83,Italian Greyhound,1458,0.2
+84,Boxer Crossbreed,1450,0.2
+85,Doberman Pinscher,1430,0.2
+86,Shetland Sheepdog,1416,0.2
+87,Brussels Griffon,1371,0.19
+88,Rhodesian Ridgeback,1265,0.17
+89,Cane Corso,1247,0.17
+90,West Highland White Terrier,1225,0.17
+91,Pointer,1224,0.17
+92,Great Pyrenees,1209,0.17
+93,Bulldog,1198,0.17
+94,Greyhound,1171,0.16
+95,Vizsla,1170,0.16
+96,Collie Crossbreed,1148,0.16
+97,Pomsky,1147,0.16
+98,Chow Chow,1129,0.16
+99,Bull Terrier,1094,0.15
+100,Silky Terrier,1086,0.15
+101,Border Terrier,1044,0.14
+102,Catahoula Leopard Dog,1010,0.14
+103,"Dachshund, Long Haired",985,0.14
+104,Tibetan Terrier,969,0.13
+105,Schnauzer Crossbreed,926,0.13
+106,"Shar-Pei, Chinese",897,0.12
+107,"Collie, Border",890,0.12
+108,Cotton De Tulear,881,0.12
+109,Great Dane,867,0.12
+110,Coton de Tulear,857,0.12
+111,Whippet,837,0.12
+112,"Schnauzer, Standard",828,0.11
+113,Samoyed,821,0.11
+114,Plott,819,0.11
+115,Basenji,818,0.11
+116,Pug Crossbreed,814,0.11
+117,Portuguese Water Dog,798,0.11
+118,Basset Hound,765,0.11
+119,Wire Fox Terrier,756,0.1
+120,Weimaraner,742,0.1
+121,Scottish Terrier,719,0.1
+122,Akita,692,0.1
+123,Belgian Malinois,672,0.09
+124,English Cocker Spaniel,657,0.09
+125,Bernese Mountain Dog Crossbreed,655,0.09
+126,"Coonhound, Black and Tan",636,0.09
+127,Miniature American Shepherd,628,0.09
+128,German Shorthaired Pointer,610,0.08
+129,Bassett Hound,606,0.08
+130,Soft Coated Wheaten Terrier,590,0.08
+131,"Schnauzer, Miniature Crossbreed",585,0.08
+132,Dalmatian,562,0.08
+133,English Springer Spaniel,552,0.08
+134,Old English Sheepdog,535,0.07
+135,Rat Terrier Crossbreed,524,0.07
+136,Norwich Terrier,509,0.07
+137,Shiba Inu Crossbreed,493,0.07
+138,"Bull Dog, American",486,0.07
+139,Rottweiler Crossbreed,486,0.07
+140,Alaskan Klee kai,479,0.07
+141,"Coonhound, Treeing Walker",467,0.06
+142,Anatolian Shepherd Dog,461,0.06
+143,American Foxhound,455,0.06
+144,"Welsh Corgi, Cardigan",438,0.06
+145,Lagotto Romagnolo,438,0.06
+146,Norfolk Terrier,437,0.06
+147,Brittany Spaniel,422,0.06
+148,Collie,422,0.06
+149,Alaskan Malamute,416,0.06
+150,Mastiff,396,0.05
+151,Treeing Walker Coonhound,395,0.05
+152,Newfoundland,387,0.05
+153,Australian Shepherd Crossbreed,384,0.05
+154,Cardigan Welsh Corgi,380,0.05
+155,Basset Hound Crossbreed,377,0.05
+156,"Dachshund, Wirehaired, Miniature",371,0.05
+157,Airedale Terrier,361,0.05
+158,Canaan Dog,346,0.05
+159,"Dachshund, Wirehaired",337,0.05
+160,Havanese Crossbreed,316,0.04
+161,Redbone Coonhound,298,0.04
+162,Chinese Crested,293,0.04
+163,Japanese Chin,291,0.04
+164,Tibetan Spaniel,287,0.04
+165,Japanese Spitz,280,0.04
+166,Dutch Shepherd,280,0.04
+167,Irish Terrier,277,0.04
+168,Toy Fox Terrier,275,0.04
+169,Japanese Chin/Spaniel,272,0.04
+170,Parson Russell Terrier,269,0.04
+171,Chinese Shar-Pei,267,0.04
+172,Bluetick Coonhound,261,0.04
+173,"Pointer, German Shorthaired",253,0.03
+174,Manchester Terrier,249,0.03
+175,Black and Tan Coonhound,245,0.03
+176,"Collie, Rough Coat",239,0.03
+177,Hound Crossbreed,229,0.03
+178,Flat-Coated Retriever,226,0.03
+179,Irish Setter,224,0.03
+180,Nova Scotia Duck Tolling Retriever,223,0.03
+181,Golden Retriever Crossbreed,223,0.03
+182,Welsh Terrier,212,0.03
+183,Pembroke Welsh Corgi Crossbreed,208,0.03
+184,Affenpinscher,202,0.03
+185,Australian Kelpie,198,0.03
+186,Corgi,198,0.03
+187,Keeshond,192,0.03
+188,Australian Silky Terrier,182,0.03
+189,Akita Crossbreed,181,0.03
+190,Goldendoodle Miniature,177,0.02
+191,"Mastiff, Bull",174,0.02
+192,Dogo Argentino,173,0.02
+193,Schipperke,170,0.02
+194,"Collie, Smooth Coat",169,0.02
+195,Russell Terrier,166,0.02
+196,"Mastiff, Old English",162,0.02
+197,Australian Terrier,162,0.02
+198,"Coonhound, Blue Tick",161,0.02
+199,Saint Bernard,159,0.02
+200,American English Coonhound,159,0.02
+201,English Setter,151,0.02
+202,Schipperkee,151,0.02
+203,Norwegian Elkhound,143,0.02
+204,Bedlington Terrier,141,0.02
+205,Bullmastiff,141,0.02
+206,Biewer Terrier,138,0.02
+207,Wirehaired Pointing Griffon,137,0.02
+208,St. Bernard,135,0.02
+209,Brittany,135,0.02
+210,Bloodhound Crossbreed,129,0.02
+211,Pharaoh Hound,127,0.02
+212,Welsh Springer Spaniel,124,0.02
+213,Afghan Hound,122,0.02
+214,"Schnauzer, Giant",121,0.02
+215,Bloodhound,121,0.02
+216,Chesapeake Bay Retriever,121,0.02
+217,Petit Basset Griffon Vendeen,120,0.02
+218,Xoloitzcuintli,114,0.02
+219,German Pinscher,114,0.02
+220,Bearded Collie,113,0.02
+221,Giant Schnauzer,111,0.02
+222,Bouvier Des Flandres,109,0.02
+223,Spinone Italiano,109,0.02
+224,Irish Wolfhound,103,0.01
+225,Smooth Fox Terrier,101,0.01
+226,Borzoi,98,0.01
+227,"Coonhound, Redbone",95,0.01
+228,Miniature Bull Terrier,93,0.01
+229,"Collie, Bearded",93,0.01
+230,Brussels Griffon Crossbreed,93,0.01
+231,Olde English Bulldogge,91,0.01
+232,Portuguese Podengo Pequeno,90,0.01
+233,Kerry Blue Terrier,86,0.01
+234,Lakeland Terrier,86,0.01
+235,Treeing Tennessee Brindle,85,0.01
+236,German Spitz,85,0.01
+237,Belgian Sheepdog,84,0.01
+238,English Foxhound,83,0.01
+239,Boykin Spaniel,82,0.01
+240,Puli,81,0.01
+241,Dalmatian Mix,78,0.01
+242,"Pointer, German Wirehaired",76,0.01
+243,American Bull Dog Crossbreed,76,0.01
+244,Dogue de Bordeaux,75,0.01
+245,Ibizan Hound,73,0.01
+246,Finnish Spitz,72,0.01
+247,Boerboel,70,0.01
+248,Clumber Spaniel,68,0.01
+249,Mountain Feist,67,0.01
+250,Glen of Imaal Terrier,66,0.01
+251,Pharoh hound,66,0.01
+252,Briard,65,0.01
+253,Mixed,65,0.01
+254,Saluki,65,0.01
+255,Field Spaniel,63,0.01
+256,Thai Ridgeback,62,0.01
+257,Bolognese,61,0.01
+258,Standard Schnauzer,58,0.01
+259,German Wirehaired Pointer,58,0.01
+260,Harrier,58,0.01
+261,Spanish Water Dog,56,0.01
+262,Patterdale Terrier,55,0.01
+263,"Mastiff, French (Dogue de Bordeaux)",53,0.01
+264,Greater Swiss Mountain Dog,53,0.01
+265,Corgi Crossbreed,52,0.01
+266,MIXED,52,0.01
+267,Beauceron,47,0.01
+268,Black Russian Terrier,46,0.01
+269,Berger Picard,46,0.01
+270,Belgian Tervuren,45,0.01
+271,Belgian Malinois Crossbreed,45,0.01
+272,Sealyham Terrier,44,0.01
+273,Lowchen,43,0.01
+274,Skye Terrier,43,0.01
+275,Carolina Dog,42,0.01
+276,Entlebucher Mountain Dog,42,0.01
+277,English Toy Spaniel,41,0.01
+278,Polish Lowland Sheepdog,38,0.01
+279,Kooikerhondje,37,0.01
+280,Russian Toy,37,0.01
+281,Gordon Setter,36,0.0
+282,Leonberger,36,0.0
+283,Terrier Mix,36,0.0
+284,Kuvasz,35,0.0
+285,Perro de Presa Canario,34,0.0
+286,"Mastiff, Neapolitan",34,0.0
+287,Sussex Spaniel,33,0.0
+288,German Longhaired Pointer,32,0.0
+289,Afghan Hound Crossbreed,30,0.0
+290,English Setter Crossbreed,30,0.0
+291,Barbet,29,0.0
+292,Basenji Crossbreed,29,0.0
+293,Dandie Dinmont Terrier,28,0.0
+294,Mixed Breed,28,0.0
+295,Belgian Griffon,28,0.0
+296,Tibetan Mastiff,28,0.0
+297,American Hairless Terrier,27,0.0
+298,French Spaniel,27,0.0
+299,American Leopard Hound,26,0.0
+300,Curly-Coated Retriever,26,0.0
+301,"Mastiff, Tibetan",25,0.0
+302,Swedish Vallhund,24,0.0
+303,Neapolitan Mastiff,24,0.0
+304,Eurasier,24,0.0
+305,Lhasa Apso Crossbreed,24,0.0
+306,Polish Hound,23,0.0
+307,MORKIE,23,0.0
+308,Chinook,23,0.0
+309,Miniature Fox Terrier,22,0.0
+310,American Water Spaniel,22,0.0
+311,Baladi,21,0.0
+312,PIT BULL,21,0.0
+313,Icelandic Sheepdog,20,0.0
+314,Kai Ken,20,0.0
+315,DACHSHUND,19,0.0
+316,American Eskimo Dog Crossbreed,19,0.0
+317,Cirneco dell,19,0.0
+318,Pyrenean Shepherd,19,0.0
+319,Irish Red and White Setter,19,0.0
+320,Pumi,19,0.0
+321,Peruvian Inca Orchid,18,0.0
+322,Norwegian Buhund,17,0.0
+323,Hound Mix,16,0.0
+324,Greyhound Crossbreed,16,0.0
+325,COCKAPOO,16,0.0
+326,Chihuahua Mix,15,0.0
+327,Lancashire Heeler,15,0.0
+328,Cock-A-Poo,15,0.0
+329,Wirehaired Vizsla,15,0.0
+330,Hovawart,15,0.0
+331,TERRIER MIX,14,0.0
+332,Bracco Italiano,14,0.0
+333,Catahoula Leopard Dog Crossbreed,14,0.0
+334,Yorkie Poo,13,0.0
+335,Pit Bull,13,0.0
+336,Greek Shephard,13,0.0
+337,Border Terrier Crossbreed,13,0.0
+338,Mastiff Crossbreed,13,0.0
+339,Finnish Lapphund,12,0.0
+340,Shih-Poo,12,0.0
+341,Small Munsterlander Pointer,12,0.0
+342,Malti-Poo,12,0.0
+343,Terrier,12,0.0
+344,Weimaraner Crossbreed,11,0.0
+345,Mudi,11,0.0
+346,Fila Brasileiro,11,0.0
+347,Alaskan Malamute Crossbreed,11,0.0
+348,Scottish Deerhound,11,0.0
+349,Poodle Mix,10,0.0
+350,Pit Bull Mix,10,0.0
+351,Formosan Mountain,9,0.0
+352,SHEPHERD MIX,9,0.0
+353,UNKNOWN,9,0.0
+354,Shih Tzu Mix,8,0.0
+355,POODLE,8,0.0
+356,PIT BULL MIX,8,0.0
+357,Cesky Terrier,8,0.0
+358,CHIHUAHUA MIX,8,0.0
+359,Belgian Laekenois,8,0.0
+360,GOLDEN DOODLE,8,0.0
+361,Hound,7,0.0
+362,RAT TERRIER,7,0.0
+363,Golden Doodle,7,0.0
+364,SHIH-POO,7,0.0
+365,HOUND MIX,7,0.0
+366,SHIH TZU MIX,7,0.0
+367,Dachshund Mix,7,0.0
+368,POODLE MIX,7,0.0
+369,Kromfohrlander,7,0.0
+370,Cattle Dog Mix,6,0.0
+371,terrier mix,6,0.0
+372,Yorkie,6,0.0
+373,Pointer Mix,6,0.0
+374,Karelian Bear Dog,6,0.0
+375,Yorkie-Poo,6,0.0
+376,Chihuahua  Mix,6,0.0
+377,Jack Russell Terrier Mix,6,0.0
+378,Schnoodle,6,0.0
+379,Jagdterrier,6,0.0
+380,MINI PINSCHER,6,0.0
+381,French Poodle,6,0.0
+382,CAVACHON,5,0.0
+383,Estrela Mountain Dog,5,0.0
+384,cockapoo,5,0.0
+385,Grand Basset Griffon Vendeen,5,0.0
+386,COCK-A-POO,5,0.0
+387,Azawakh,5,0.0
+388,Mini Dachshund,5,0.0
+389,MINI DACHSHUND,5,0.0
+390,PIT BULL X,5,0.0
+391,Shorkie,5,0.0
+392,Dalmatian Crossbreed,5,0.0
+393,Otterhound,5,0.0
+394,Yorkie Mix,5,0.0
+395,Bichon/Poodle,5,0.0
+396,TERRIER X,5,0.0
+397,MUTT,5,0.0
+398,Maltese Mix,5,0.0
+399,COLLIE,4,0.0
+400,unknown,4,0.0
+401,YORKIE POO,4,0.0
+402,poodle,4,0.0
+403,Maltese/Poodle,4,0.0
+404,SHORKIE,4,0.0
+405,Shepherd Mix,4,0.0
+406,GOLDENDOODLE,4,0.0
+407,Tosa,4,0.0
+408,Golden Retriever Mix,4,0.0
+409,LAB MIX,4,0.0
+410,pit bull,4,0.0
+411,Border Collie Mix,4,0.0
+412,COCKER POO,4,0.0
+413,Kishu Ken,4,0.0
+414,Portuguese Sheepdog,4,0.0
+415,GERMAN SHEPHERD MIX,4,0.0
+416,SHIHPOO,4,0.0
+417,MALTIPOO,4,0.0
+418,MALTESE/POODLE,4,0.0
+419,morkie,4,0.0
+420,SCHNOODLE,4,0.0
+421,GoldenDoodle,4,0.0
+422,Teddy Bear,4,0.0
+423,HOUND X,3,0.0
+424,SHIH POO,3,0.0
+425,mixed breed,3,0.0
+426,Spaniel Mix,3,0.0
+427,Terrier  Mixed,3,0.0
+428,TERRIER  X,3,0.0
+429,MALTI-POO,3,0.0
+430,POINTER MIX,3,0.0
+431,BOXER MIX,3,0.0
+432,LABRADOR RETRIEVER MIX,3,0.0
+433,Shih Tzu/Poodle,3,0.0
+434,chihuahua mix,3,0.0
+435,CHIHUAHUA X,3,0.0
+436,MALTI POO,3,0.0
+437,Catahoula,3,0.0
+438,pit mix,3,0.0
+439,Westie,3,0.0
+440,COCK A POO,3,0.0
+441,mix,3,0.0
+442,COLLIE MIX,3,0.0
+443,Toy Aussie,3,0.0
+444,Australian Labradoodle,3,0.0
+445,Maltese/Shih Tzu,3,0.0
+446,LAB RETRIEVER MIX,3,0.0
+447,Stabyhoun,3,0.0
+448,Pitbull,3,0.0
+449,Mi-Ki,3,0.0
+450,Toy Australian Shepherd,3,0.0
+451,Schnauzer Mix,3,0.0
+452,Pug Mix,3,0.0
+453,mixed,3,0.0
+454,Cavapoo,3,0.0
+455,Malti Poo,3,0.0
+456,Maltese/Terrier,3,0.0
+457,yorkiepoo,3,0.0
+458,MALTEPOO,3,0.0
+459,CAVAPOO,3,0.0
+460,Russian Wolfhound,3,0.0
+461,Hound mix,3,0.0
+462,Airedale Terrier Crossbreed,3,0.0
+463,Terrier X,3,0.0
+464,ZUCHON,3,0.0
+465,MINI GOLDEN DOODLE,3,0.0
+466,Irish Water Spaniel,3,0.0
+467,terrier,3,0.0
+468,BORDER COLLIE MIX,3,0.0
+469,Cavachon,3,0.0
+470,Hamiltonstovare,3,0.0
+471,Presa Canario,3,0.0
+472,PEKAPOO,2,0.0
+473,PIT BULL  MIX,2,0.0
+474,BORDER TERRIER,2,0.0
+475,DACHSHUND MIX,2,0.0
+476,BICHON-POO,2,0.0
+477,pitbull,2,0.0
+478,Shih Tzu - Brussels Griffon,2,0.0
+479,SHIH TZU X,2,0.0
+480,Shihtese,2,0.0
+481,COCKA-POO,2,0.0
+482,Yorkie/Poodle,2,0.0
+483,Malkie,2,0.0
+484,Maltese / mix,2,0.0
+485,SCHNAUZER,2,0.0
+486,Shepard Mix,2,0.0
+487,Pompoo,2,0.0
+488,JACK RUSSELL  CROSS,2,0.0
+489,Teacup Yorkshire Terrier,2,0.0
+490,COCKER SPANIEL MIX,2,0.0
+491,Pyrenean Mastiff,2,0.0
+492,Affenpinscher Crossbreed,2,0.0
+493,TOY FOX TERRIER,2,0.0
+494,maltipoo,2,0.0
+495,RAT TERR MIX,2,0.0
+496,RAT TERRIER MIX,2,0.0
+497,Husky/Labrador Retriever,2,0.0
+498,ENG SPRINGER SPANIEL,2,0.0
+499,shepherd mix,2,0.0
+500,Rottweiler Mix,2,0.0
+501,Shih-Poo Mix,2,0.0
+502,Long Haired Chihuahua,2,0.0
+503,Chihuahua / Mixed,2,0.0
+504,W HIGH WT TERR,2,0.0
+505,Peek-A-Poo,2,0.0
+506,Mixed Terrier,2,0.0
+507,Fox Hound Mix,2,0.0
+508,Fox Terrier Mix,2,0.0
+509,Bichon/Poodle Mix,2,0.0
+510,SPANIEL MIX,2,0.0
+511,MaltiPoo,2,0.0
+512,Fox Terrier,2,0.0
+513,FRENCH POODLE,2,0.0
+514,YORKIE,2,0.0
+515,HAVADOODLE,2,0.0
+516,chih mix,2,0.0
+517,Lhasa Apso Mix,2,0.0
+518,ENGLISH SPRINGER SPANIEL,2,0.0
+519,Rat Terrier Mix,2,0.0
+520,Yorkie/Maltese,2,0.0
+521,Terrier Mixed,2,0.0
+522,terr mix,2,0.0
+523,Pomeranian Mix,2,0.0
+524,Yorkie/ Maltese,2,0.0
+525,shep/doxie,2,0.0
+526,Shih Poo,2,0.0
+527,BOSTON TERR MIX,2,0.0
+528,Pit/Lab,2,0.0
+529,cavapoo,2,0.0
+530,Other,2,0.0
+531,POODLE/SHIH TZU,2,0.0
+532,MIX,2,0.0
+533,POINTER X,2,0.0
+534,schnoodle,2,0.0
+535,Toy Manchester Terrier,2,0.0
+536,POMERANIAN MIX,2,0.0
+537,CHIHUAHUA TERRIER MIX,2,0.0
+538,Blue Heeler,2,0.0
+539,Shih Tzu  Mix,2,0.0
+540,Pekingese Mix,2,0.0
+541,HAVANESE MIX,2,0.0
+542,cock-a-poo,2,0.0
+543,Cockalier,2,0.0
+544,Hound Terrier Mix,2,0.0
+545,Havapoo,2,0.0
+546,American Bull Dog,2,0.0
+547,lab mix,2,0.0
+548,spaniel mix,2,0.0
+549,Plott Hound Mix,2,0.0
+550,Chihuahua X,2,0.0
+551,dachshund,2,0.0
+552,LHASA POO,2,0.0
+553,Lab Mix,2,0.0
+554,hound mix,2,0.0
+555,Chihuahua/Shih Tzu,2,0.0
+556,CATTLE DOG MIX,2,0.0
+557,Breed Information Not Provided.,2,0.0
+558,Papillon Crossbreed,2,0.0
+559,JACK RUSS MIX,2,0.0
+560,Westy/Yorkie/Chihuahua,2,0.0
+561,CAV KING C.SPAN,2,0.0
+562,shepard mix,2,0.0
+563,Yellow Labrador,2,0.0
+564,Beagle/Hound Mix,2,0.0
+565,Labrador- Mixed,2,0.0
+566,YORKI-POO,2,0.0
+567,PAPILLION X,2,0.0
+568,Bichon-Poodle,2,0.0
+569,Shih Tuz/Poodle,2,0.0
+570,TOY POODLE,2,0.0
+571,Doxie,2,0.0
+572,Yorkie/Shih Tzu,2,0.0
+573,YORKIE-POO,2,0.0
+574,PUG MIX,2,0.0
+575,COTON DE TULEAR,2,0.0
+576,rat terrier,2,0.0
+577,PIT MIX,2,0.0
+578,BL NS PIT BULL,2,0.0
+579,Chorkie,2,0.0
+580,Terrier mixed,2,0.0
+581,pit bull mix,2,0.0
+582,Labrador Retrieve Mix,2,0.0
+583,HUSKY MIX,2,0.0
+584,TEDDY BEAR,2,0.0
+585,canine,2,0.0
+586,YORKIE/SHIH TZU,2,0.0
+587,Zuchon,2,0.0
+588,Tornjak,2,0.0
+589,SHIBA INU,1,0.0
+590,Rottweiler/Labrador Retriever,1,0.0
+591,Shepherd Mis,1,0.0
+592,SCHNAUZER-POODLE,1,0.0
+593,CHIHUAHUA/YORKIE MIX,1,0.0
+594,Small Fox Terrier,1,0.0
+595,Yorkie/Toy Poodle Mix,1,0.0
+596,cokaspinial poodle,1,0.0
+597,YORKIE/MALTESE MIX,1,0.0
+598,HAVACHON,1,0.0
+599,Poemranan Mix,1,0.0
+600,Pomtese,1,0.0
+601,Pug/Chihuahua,1,0.0
+602,DOXIE CHIHUAHUA,1,0.0
+603,Staffordshire Ibizian Hound,1,0.0
+604,SHIH TZU/MALTESE,1,0.0
+605,DOGO ARGENTINO,1,0.0
+606,BOXER/PITT,1,0.0
+607,Lhasa Apso Miix,1,0.0
+608,collie,1,0.0
+609,YORKSHIRE/POODL,1,0.0
+610,PINSCHER-CHIH,1,0.0
+611,mix corgi/lab. retriever,1,0.0
+612,Rat Terrier/Poodle Mix,1,0.0
+613,beagle/mix,1,0.0
+614,Shepherd/Golden Retreiver,1,0.0
+615,GOLDEN RETRIEVER MIX,1,0.0
+616,Beagle/Terrier Mix,1,0.0
+617,Terrier/Beagle,1,0.0
+618,ENGLISH BULL TERRIER,1,0.0
+619,Australian Shepherd Mix,1,0.0
+620,Mini Bull Terrier,1,0.0
+621,Mastiff/Shepherd,1,0.0
+622,AMER PIT BULL TERR MIX,1,0.0
+623,austrian hunting,1,0.0
+624,SHIH TZU/YORKIE,1,0.0
+625,AM PIT BULL MIX,1,0.0
+626,SHIH/MALTESE,1,0.0
+627,mutt from shelter.  looks like border collie,1,0.0
+628,AMERICAN PIT BULL,1,0.0
+629,PEK-A-TESE,1,0.0
+630,Shorky,1,0.0
+631,Podengo Pequeno,1,0.0
+632,KING CH BICHON,1,0.0
+633,CHIHUAHUA/DACHS,1,0.0
+634,PETERSBURG ORCHID,1,0.0
+635,Carolina mix,1,0.0
+636,boston terrier/french bulldog,1,0.0
+637,SHEEP DOG,1,0.0
+638,Border Collie Ausie Shep X,1,0.0
+639,Hound Mixed,1,0.0
+640,Mini Pinscher/ Chihuahua Mix,1,0.0
+641,Chocolate Labrador/Border Collie Mix,1,0.0
+642,Ridgeback/Rottweiler,1,0.0
+643,COCA-POO,1,0.0
+644,Harrier Mix,1,0.0
+645,WHEATON TERRIER/KING CHARLES CHU MIX,1,0.0
+646,BEA/ GOLD/ RET MIX,1,0.0
+647,chi-Yorkie,1,0.0
+648,BEAGLE-JACK RUSSELL,1,0.0
+649,MINI PIN MIX,1,0.0
+650,GERMAN SHORTHAIRED POINTER,1,0.0
+651,WELSH CORGI   X,1,0.0
+652,Crossbreed,1,0.0
+653,BIUCHON/POODLE MIX,1,0.0
+654,Pomerian Mix,1,0.0
+655,chiweenie,1,0.0
+656,X golden wolf hound,1,0.0
+657,PITBULL-BULLDOG,1,0.0
+658,sharpei-beagle,1,0.0
+659,Maltpoo,1,0.0
+660,Red nose pit bull terrier,1,0.0
+661,SCHNAUZER/TERR  X,1,0.0
+662,Poodle/Pompoo,1,0.0
+663,Black Lab mix,1,0.0
+664,hound beagle,1,0.0
+665,Shih Tzu/Bichon,1,0.0
+666,HOUND TERRIER MIX,1,0.0
+667,Fox Hound,1,0.0
+668,Chih Mix,1,0.0
+669,Blue Nose Pitbull,1,0.0
+670,PITBULL MIXED RED/BLUE NOSE,1,0.0
+671,Mini Aust.Shepherd,1,0.0
+672,Bichon Frise Mix,1,0.0
+673,Rat terrier mix,1,0.0
+674,Corgi Mix,1,0.0
+675,LAB/SHEPHERD MIX,1,0.0
+676,Shih Tsu/Poodle,1,0.0
+677,SHIH TZU,1,0.0
+678,Collie /Springer Terrier Mix,1,0.0
+679,HUSKY GOLDEN RETRIEVER MIX,1,0.0
+680,Schnauzer/Poodle Mix,1,0.0
+681,Lab Golden Mix,1,0.0
+682,patterdale mix terrier,1,0.0
+683,Maltese/Terrier/Poodle Mix,1,0.0
+684,Labrador/ Shih Tzu,1,0.0
+685,American Staffordshire Terrier X,1,0.0
+686,CHOW CHOW MIX,1,0.0
+687,Maltese/Shih Tzu/Pomeranian,1,0.0
+688,Poodle/Yorkie,1,0.0
+689,Nova Scotia Toller,1,0.0
+690,CHINESE CRESTED,1,0.0
+691,SHIBA INU/GERM SHEPHERD,1,0.0
+692,Bernedoodle,1,0.0
+693,Labrador / Pit Bull Mix,1,0.0
+694,Beagle/Rat Terrier,1,0.0
+695,pit,1,0.0
+696,ALASKAN KLEE KAI,1,0.0
+697,Pit Bull/Lab.,1,0.0
+698,REd Pit Mix,1,0.0
+699,ROYAL BAH POTCA,1,0.0
+700,Terr Mix,1,0.0
+701,Collie / Lab,1,0.0
+702,Poodle/ShihTzu,1,0.0
+703,Maltes/Shih Tzu,1,0.0
+704,Maltepoo,1,0.0
+705,LG HR CHIHUAHUA,1,0.0
+706,Manchester Shepherd Mix,1,0.0
+707,Blue Heeler / Schnauser,1,0.0
+708,Shepherd/Hound,1,0.0
+709,Chow Chow Mix,1,0.0
+710,pitbull mix,1,0.0
+711,CavaChon,1,0.0
+712,LAB GOLD RET CROSS,1,0.0
+713,SHIH TZU POODLE MIX,1,0.0
+714,BOSTON BULLDOG,1,0.0
+715,poodle/terrier,1,0.0
+716,Italian/Sicilian hound,1,0.0
+717,JACK RUS CHIHUA,1,0.0
+718,WELSH TERRIER,1,0.0
+719,CHOW MIX,1,0.0
+720,Shih Tzu / Maltese Mix,1,0.0
+721,Labradoodle Mini,1,0.0
+722,Chihuahua/Maltese/Yorkshire Mix,1,0.0
+723,Papillion Mix,1,0.0
+724,Beagle/Chihuahua,1,0.0
+725,Potcake,1,0.0
+726,airedale terrier,1,0.0
+727,English Pointer,1,0.0
+728,Wheaton Mix,1,0.0
+729,Retriever/Chow,1,0.0
+730,DOXIE,1,0.0
+731,miniature poodle / cocker spaniel,1,0.0
+732,labrador retriever hound mix,1,0.0
+733,Pekingese/Poodle,1,0.0
+734,Terrier  X,1,0.0
+735,PUG/CHIHUAHUA,1,0.0
+736,PIT BULL TERR MIX,1,0.0
+737,coonhound mix,1,0.0
+738,Aust Heller Mix,1,0.0
+739,PEAKAPOO,1,0.0
+740,CHI/DOXEN,1,0.0
+741,beagle mix,1,0.0
+742,dach mix,1,0.0
+743,Labrador - Pit Bull Mix,1,0.0
+744,YORKIE/CHIHUAHUA,1,0.0
+745,Mini Pinscher/Chihuahua Mix,1,0.0
+746,BOST TERR/LHASA,1,0.0
+747,engish pointer,1,0.0
+748,Jack Russell Terr Mix,1,0.0
+749,Basenji/whippet,1,0.0
+750,Husky Malamute,1,0.0
+751,HEELER/COLLIE MIX,1,0.0
+752,hunting dog/rescue,1,0.0
+753,Whippet-Labrador Mix,1,0.0
+754,Shep Mix,1,0.0
+755,Parsons Russell Terrier mix,1,0.0
+756,Yorki-tzu,1,0.0
+757,Chow/Collie/Shepherd Mix,1,0.0
+758,AM ESKIMO / MALTESE,1,0.0
+759,Yorkshire Terrier Toy,1,0.0
+760,Yorky,1,0.0
+761,lab Terr mix,1,0.0
+762,Soft-Coat Weaton Terrier,1,0.0
+763,Pit Bull Mastiff,1,0.0
+764,MALTAPOO,1,0.0
+765,YORKIE POODLE,1,0.0
+766,Chihuahua/Jack Russell mix,1,0.0
+767,Havapeke,1,0.0
+768,Maltese/ Shih Tzu,1,0.0
+769,LAB RETRIEVER   MIX,1,0.0
+770,RETRIEVER MIX,1,0.0
+771,Pekapoo,1,0.0
+772,bichon frise / shih tzu,1,0.0
+773,Shih Tzu mix,1,0.0
+774,Dachshund-Scottie,1,0.0
+775,Jack Russell Mix,1,0.0
+776,Shepherd/Chow,1,0.0
+777,Chihuahua/Greyhound,1,0.0
+778,AUSTRALIAN SHEP,1,0.0
+779,JACKABEE /RUSS,1,0.0
+780,Spitz Mix,1,0.0
+781,Miniature Pinscher/Boxer,1,0.0
+782,LHASA APSO/SHIH,1,0.0
+783,Welsh Corgi Mix,1,0.0
+784,YELLOW LAB/SHEPHERD MIX,1,0.0
+785,RUSSEL,1,0.0
+786,Collie / Retreiver,1,0.0
+787,SHIHCHON,1,0.0
+788,PAPILLON / AMERICAN ESKIMO,1,0.0
+789,Poo-Chon,1,0.0
+790,Corgy / labrador,1,0.0
+791,Peagle,1,0.0
+792,Cocker Poo,1,0.0
+793,BEAGLE/BOXER X,1,0.0
+794,MIX TERRIER,1,0.0
+795,jack russel terrier mix,1,0.0
+796,CHI/DACH MIX,1,0.0
+797,STANDARD POODLE,1,0.0
+798,BICHON-POODLE,1,0.0
+799,Yorkie / Poodle mix,1,0.0
+800,OLDE ENGLISH BULL DOG,1,0.0
+801,Shihchon,1,0.0
+802,PRYNESE/LAB X,1,0.0
+803,america eskimo and poodle,1,0.0
+804,SHORKIE-TZU,1,0.0
+805,English Pointer Mix,1,0.0
+806,toy aussie,1,0.0
+807,mutt,1,0.0
+808,UNKNOWN BREED?,1,0.0
+809,Shepherd/Hound/Lab,1,0.0
+810,COLLIE/SHEPHERD MIX,1,0.0
+811,Pit Ter Lab,1,0.0
+812,Hungarian Puli,1,0.0
+813,LAB/GOLDEN RETRIEVER,1,0.0
+814,Jack Russell / Mini Aussie Mix,1,0.0
+815,CATTLEDOG MIXED,1,0.0
+816,AFFENPINSCHER,1,0.0
+817,pug-bijon,1,0.0
+818,TREEING WALKER COONHOUND,1,0.0
+819,Shepherd/Terrier Mix,1,0.0
+820,Poodle/Italian Greyhound,1,0.0
+821,Maltese/Pomeranian,1,0.0
+822,SHAR-PEI,1,0.0
+823,Spinone,1,0.0
+824,MALTESE-SHIHTZU,1,0.0
+825,TERRIER,1,0.0
+826,BOSTON TERR/MIN BOXER,1,0.0
+827,Shih Tzu / Terrier mix,1,0.0
+828,Lab mix,1,0.0
+829,Cocker Spaniel / Poodle,1,0.0
+830,AMERICAN STAFFORDSHIE,1,0.0
+831,MULTI,1,0.0
+832,WHEATON TERRIER MIX,1,0.0
+833,Dalhsund Maltese terrier mix,1,0.0
+834,Cav KC,1,0.0
+835,Chihuahua/Miniature Pinscher Mix,1,0.0
+836,Cocker Spaniel /Mini Poodle Mix,1,0.0
+837,TOY AUSSIE,1,0.0
+838,Westiepoo,1,0.0
+839,Red Poodle,1,0.0
+840,maltese/yorkie,1,0.0
+841,LAB/SHEPHERD X,1,0.0
+842,CAVAZOO,1,0.0
+843,LAB/COLLIE MIX,1,0.0
+844,COCKALIER,1,0.0
+845,ITALIAN GREYHOUND TERR MIX,1,0.0
+846,Chihuahua/Yorkie Mix,1,0.0
+847,Shepherd  Mix,1,0.0
+848,TERR DASH MIX,1,0.0
+849,LAB-AUSTRALIAN SHEPHERD MIX,1,0.0
+850,Dogo/Pitbull/Bulldog mix,1,0.0
+851,Chihuahua Short Coat,1,0.0
+852,SCHNOCKER,1,0.0
+853,Airedale,1,0.0
+854,COCKERPOO,1,0.0
+855,Silky Terrier Mix,1,0.0
+856,Maltese Chihuahua Mix,1,0.0
+857,Scott Terr/Shih Tsu,1,0.0
+858,Smooth Hair Fox Terrier,1,0.0
+859,Shoorkie,1,0.0
+860,LAB/SPANIEL MIX,1,0.0
+861,Shih Tzu/Bichon Mix,1,0.0
+862,Maltese/shitzu,1,0.0
+863,Peke A Ppp,1,0.0
+864,"Possibly part terrier, part Labrador retriever",1,0.0
+865,Chow Chow/ Lab,1,0.0
+866,cocker spaniel/poodle mix,1,0.0
+867,zuchon,1,0.0
+868,Red Bone Coon Hound,1,0.0
+869,Collie Beared Mix,1,0.0
+870,BORDER COLLIE/TERRIER,1,0.0
+871,CAVASHON,1,0.0
+872,Chihuahua/Dachshund,1,0.0
+873,JAP CHIN / MALTESE,1,0.0
+874,MALT MIX,1,0.0
+875,Cavalier King Charles/Bichon,1,0.0
+876,AM STAFFORDSHIRE TERR,1,0.0
+877,Unknown (stray),1,0.0
+878,Tiny Goldendoodle,1,0.0
+879,Jack Russell/Basenji,1,0.0
+880,Havachon,1,0.0
+881,JACK RUSS / CHIH,1,0.0
+882,Lab retriver + pitt bull,1,0.0
+883,mix breed,1,0.0
+884,Whippet/Jack Russell Mix,1,0.0
+885,Chihuhahu/Dachshund Mix,1,0.0
+886,yorkie-poo,1,0.0
+887,Norkie,1,0.0
+888,RAT TERR,1,0.0
+889,Poodle/Spaniel,1,0.0
+890,Yorkshire-Poodle Mix,1,0.0
+891,Lab/Hound Mix,1,0.0
+892,Schnauzer,1,0.0
+893,Miniature Poodle /Shih Tzu Mix,1,0.0
+894,Schnauzer/Terrier Mix,1,0.0
+895,German Shepherd Mix,1,0.0
+896,Lhasa Mix,1,0.0
+897,TERR MIX,1,0.0
+898,Jack Russell Terrier X,1,0.0
+899,HOUND MIXED,1,0.0
+900,shepherd/terrier,1,0.0
+901,BRITTANY SPAN,1,0.0
+902,Shitzu/Poodle,1,0.0
+903,SHEPHERD/ROTTIX,1,0.0
+904,CHOW /SHARPEI MIX,1,0.0
+905,Slovensky Cuvac,1,0.0
+906,"shepherd, terrier, mastiff mix",1,0.0
+907,Bergamasco,1,0.0
+908,Labrador- Pointer Mixed,1,0.0
+909,Cattle Dog - Blue Healer,1,0.0
+910,Welsh  Springer Spaniel,1,0.0
+911,HOUND/PIT BULL,1,0.0
+912,Red Nose Pit Bull,1,0.0
+913,Basset/Beagle Mix,1,0.0
+914,ENG SETTER,1,0.0
+915,Shepherd/Doberman Mix,1,0.0
+916,"MALTESE/POODLE,TOY",1,0.0
+917,DACHSHUND/POMER,1,0.0
+918,MALTI-ZU,1,0.0
+919,POODLE/BICHON,1,0.0
+920,Husky Mixed,1,0.0
+921,TOY AUSTRALIAN SHEPHERD,1,0.0
+922,English Golden Doodle,1,0.0
+923,MIXED HOUND,1,0.0
+924,AM STAFFORD TERRIER MIX,1,0.0
+925,Giant Schnoodle,1,0.0
+926,SHAR PEI,1,0.0
+927,Swedish Lapphund,1,0.0
+928,Chihuahua/Pug  (Chug),1,0.0
+929,Beagle/Dachshund Mix,1,0.0
+930,Lab/Pit Bull,1,0.0
+931,SATO X,1,0.0
+932,lab/pit mix,1,0.0
+933,Laasa Apso mix,1,0.0
+934,PIT/LAB   X,1,0.0
+935,Blue Merle Sheltie,1,0.0
+936,Miniature Schnauzer/Poodle Mix,1,0.0
+937,bichon/shihtzu,1,0.0
+938,Chihuahua mix,1,0.0
+939,AM PIT BULL TERRIER MIX,1,0.0
+940,COCKA POO,1,0.0
+941,SHITZU /POODLE,1,0.0
+942,PATTERDALE TERRIER MIX,1,0.0
+943,YORKSHIRE TERR X,1,0.0
+944,POM / YORKIE,1,0.0
+945,Dalmation/Terrier/Poodle,1,0.0
+946,BOSTON TERR   X,1,0.0
+947,PODENAO PORT,1,0.0
+948,Terrier/Shih Tzu,1,0.0
+949,Breed ?,1,0.0
+950,Sharpal - Rat Terrier,1,0.0
+951,Cur,1,0.0
+952,Cock a poo,1,0.0
+953,BRITTANY,1,0.0
+954,Lab mixed,1,0.0
+955,manchester terrier,1,0.0
+956,pom-chi,1,0.0
+957,BEAGLE/TERR X,1,0.0
+958,Maltese / Yorkie Mix - Morkie,1,0.0
+959,CAIRN TERRIER X,1,0.0
+960,YORKSHIRE X,1,0.0
+961,Goldendoole,1,0.0
+962,Spitz,1,0.0
+963,PIT BULL/LAB MIX,1,0.0
+964,Lab Mutt Mix,1,0.0
+965,WIRE FOX TERR MIX,1,0.0
+966,Chihuahua/Jack Russel,1,0.0
+967,Yorki-Poo,1,0.0
+968,HUSKY/GERM SHEPHERD MIX,1,0.0
+969,australian labradoodle,1,0.0
+970,Shepherd Pintzer,1,0.0
+971,Spanador,1,0.0
+972,BEARDED COLLIE  X,1,0.0
+973,Pomeranian mix,1,0.0
+974,papitese,1,0.0
+975,Hound Mastiff,1,0.0
+976,Shih Tzu/Bischon Mix,1,0.0
+977,Maltese-Terrier Mix,1,0.0
+978,Walker Hound,1,0.0
+979,POODLE MIXED,1,0.0
+980,Springer Spaniel,1,0.0
+981,Pit Mix,1,0.0
+982,MINI DOBERMAN,1,0.0
+983,Havashire,1,0.0
+984,Mini Golden Doodle,1,0.0
+985,HUSKY GER SHEP HOUND,1,0.0
+986,MIX-BORDER COLLIE -HUSKY-SHEPHERD,1,0.0
+987,Jack Russell X,1,0.0
+988,Maltese-Pomeranian,1,0.0
+989,Pom-Chi,1,0.0
+990,BORDER COLLIE  X,1,0.0
+991,Hound/Labrador Mix,1,0.0
+992,Beagle/Fr.Bull Dog,1,0.0
+993,cockachon,1,0.0
+994,spaniel/terrier?,1,0.0
+995,Lhatese,1,0.0
+996,Hound/Lab Mix,1,0.0
+997,LAB/CORGI X,1,0.0
+998,Taiwan Mountain Dog,1,0.0
+999,Dachshund/Beagle,1,0.0
+1000,LAB WEIMARNER,1,0.0
+1001,BRITTANY   X,1,0.0
+1002,Beagle-Pei,1,0.0
+1003,Poodle/Bichon,1,0.0
+1004,Wheaton Terrier Mix,1,0.0
+1005,MINI BULLDOG,1,0.0
+1006,AUS SHEP/HEELER/RET,1,0.0
+1007,DACHSHUN/CHIHUA,1,0.0
+1008,POODLE/WESTIE,1,0.0
+1009,YORKISHIRETERRIER/ MALTESE MORKIE,1,0.0
+1010,Boxer / Shepherd Mix,1,0.0
+1011,BORDER COLLIE X,1,0.0
+1012,Polanese,1,0.0
+1013,Pyrenees Poodle Mix,1,0.0
+1014,Shepherd  X,1,0.0
+1015,Unknown Hound mix,1,0.0
+1016,shih tzu / maltese mix,1,0.0
+1017,chihuahua/terrier mix,1,0.0
+1018,Blackmouthcur,1,0.0
+1019,SHELTIE SHEP MIX,1,0.0
+1020,TERR / SHEP,1,0.0
+1021,Germ Shep/Siberian Husky,1,0.0
+1022,Sheltie/Jack Russ Mix,1,0.0
+1023,Chihuahua  Mixed,1,0.0
+1024,Peke-A-Tese,1,0.0
+1025,Maltese/Havanese,1,0.0
+1026,Schanuzer/Yorkie,1,0.0
+1027,Schnauzer /Poodle Mix,1,0.0
+1028,PARSON RUSSELL TERRIER,1,0.0
+1029,Mix,1,0.0
+1030,Retriever/Dachshund Mix,1,0.0
+1031,Golden doodle,1,0.0
+1032,Pomeranian-Maltese,1,0.0
+1033,Great Dane Mix,1,0.0
+1034,SCHNAUZER X,1,0.0
+1035,Shih-Malt,1,0.0
+1036,Cava-poo,1,0.0
+1037,YORKIE TERRIER MIX,1,0.0
+1038,Beagle Mixed,1,0.0
+1039,Hound / Retriever Mixed,1,0.0
+1040,Hound/Lab,1,0.0
+1041,Husky/Lab Mix,1,0.0
+1042,FLAT-COATED RETRIEVER,1,0.0
+1043,chinese crested,1,0.0
+1044,wheaton mix,1,0.0
+1045,Collie Mix,1,0.0
+1046,Maltese/Chihuahua Mix,1,0.0
+1047,Tea Cup Poodle,1,0.0
+1048,White Terrier,1,0.0
+1049,SHIHT-ZU IMPERIAL,1,0.0
+1050,"Sapsal, Korea",1,0.0
+1051,corgi/akita,1,0.0
+1052,AUST SHEPHERD,1,0.0
+1053,Beagle/Shepherd Mix,1,0.0
+1054,boerboel,1,0.0
+1055,Teddy-Bear,1,0.0
+1056,German pinscher,1,0.0
+1057,GOLD RETR/CHOW,1,0.0
+1058,MOUNTAIN FEIST,1,0.0
+1059,COOCKAPOO,1,0.0
+1060,BULLDOG MIX,1,0.0
+1061,maltese westie mix,1,0.0
+1062,American Bulldog,1,0.0
+1063,Cav King Ch Sp /Mix,1,0.0
+1064,Frend Poo,1,0.0
+1065,Sheltie,1,0.0
+1066,schipperke mix rescue,1,0.0
+1067,YORKIE POODLE X,1,0.0
+1068,BIEWER TERR,1,0.0
+1069,Australian Cattle Dog/Hound Mix,1,0.0
+1070,Dachshund/Chihuahua Mix,1,0.0
+1071,MALT POODLE,1,0.0
+1072,BOXER X,1,0.0
+1073,Bichon Frise/Poodle-Terrier,1,0.0
+1074,SPITZ X,1,0.0
+1075,Yorkie Poodle,1,0.0
+1076,SHIH TUZ & POODLE MIX,1,0.0
+1077,shih tzu mix,1,0.0
+1078,Chow / Retriever Mixed,1,0.0
+1079,GOLDEN RET HUSKY MIX,1,0.0
+1080,Terrier and Chihuahua mix maybe,1,0.0
+1081,Shepherd/Boxer,1,0.0
+1082,Yorkie-Maltese,1,0.0
+1083,YorkshireTerrier /Shih Tzu Mix,1,0.0
+1084,SHI-POO,1,0.0
+1085,PEAK-A-POO,1,0.0
+1086,LHASA APSO/POOD,1,0.0
+1087,CHIHUAHUA-JACK RUSSELL TERRIER,1,0.0
+1088,TERRIER BOXER MIX,1,0.0
+1089,Huckapoo,1,0.0
+1090,CORKY MIX,1,0.0
+1091,LAB/SPANIEL X,1,0.0
+1092,POODLE/MALTESE,1,0.0
+1093,SHINESE,1,0.0
+1094,boggle,1,0.0
+1095,Pomeranian - Poodle Mix,1,0.0
+1096,corg mix,1,0.0
+1097,Labrador/Boxer/Beagle,1,0.0
+1098,Malchi,1,0.0
+1099,Pekingese/Shih Tzu Mix,1,0.0
+1100,"Pembroke Welsh Corgi, Dachshund, Spaniel Mix",1,0.0
+1101,RUSSKIY TOY SMOOTHHAIRED,1,0.0
+1102,ITAL GREYHOUND MIX,1,0.0
+1103,MALSHIPOO,1,0.0
+1104,Staffordshire Terrier Mix,1,0.0
+1105,Mutt,1,0.0
+1106,Shichon,1,0.0
+1107,French Beagle,1,0.0
+1108,JACK RUSSEL  & TOY FOX TERR,1,0.0
+1109,MALTESE MIX,1,0.0
+1110,mix/hound/lab,1,0.0
+1111,COOCKER-POO,1,0.0
+1112,CHIHUAHUA/JACK RUSSELL MIX,1,0.0
+1113,chih/dach mix,1,0.0
+1114,Havenese-Poodle,1,0.0
+1115,yorkie poodle,1,0.0
+1116,"rotweiller, german shepard",1,0.0
+1117,SHIMALT,1,0.0
+1118,YORKIE-BICHON,1,0.0
+1119,terrier/mix,1,0.0
+1120,Collie/Retriever,1,0.0
+1121,Malagasssy coton du tulear,1,0.0
+1122,westie terrier-schnauser mix,1,0.0
+1123,SHIH TZU/POODLE,1,0.0
+1124,"Vizsla, mini pin",1,0.0
+1125,shepherd/collie mix,1,0.0
+1126,LAB/CHOW CHOW,1,0.0
+1127,Shih Tzu/ Poodle,1,0.0
+1128,Havanese/Maltese,1,0.0
+1129,chow mix,1,0.0
+1130,Yorkie Mixed,1,0.0
+1131,Golden Retiever Mix,1,0.0
+1132,DACHSHAUN/POODLE,1,0.0
+1133,AUST CTTLE DG X,1,0.0
+1134,Stafford Shire mix,1,0.0
+1135,Fox/Sheltie,1,0.0
+1136,TOY SCHNAUZER,1,0.0
+1137,Pit Bull  Mix,1,0.0
+1138,BRINDLE PIT BULL,1,0.0
+1139,GSD-TERRIER,1,0.0
+1140,Beagle- Chow- Shepherd Mix,1,0.0
+1141,Cigi,1,0.0
+1142,Shepherd /Pit Bull Mix,1,0.0
+1143,Yorkie/fox terrier mix,1,0.0
+1144,Unknown/Cross,1,0.0
+1145,WELSH SPRINGER SPANIEL,1,0.0
+1146,Rat Terrier X,1,0.0
+1147,JACK RUSS TERRI,1,0.0
+1148,SCHNAUZER/POODLE,1,0.0
+1149,terrier daschund mix,1,0.0
+1150,Labrador/Terrier mix,1,0.0
+1151,BREED?,1,0.0
+1152,pitbull/ pointer,1,0.0
+1153,Chihuahua/Terrier,1,0.0
+1154,"rabies,bordetella",1,0.0
+1155,Aust.Shepherd Mix,1,0.0
+1156,LHASA APSO/TERR,1,0.0
+1157,Blue Nose Pit Bull,1,0.0
+1158,Part Golden Retriever,1,0.0
+1159,Terri / Havanese,1,0.0
+1160,DUTCH SHEPHERD MIX,1,0.0
+1161,DOBERMAN,1,0.0
+1162,Maltese/Chihuahua,1,0.0
+1163,BASENJI/TERR X,1,0.0
+1164,Chiuaua Pug mix,1,0.0
+1165,Catahoula Leopard,1,0.0
+1166,Yellow Lab Mix,1,0.0
+1167,LABRADOR/TERRIER,1,0.0
+1168,HavaChon,1,0.0
+1169,GOLDEN RETR/CATTLE DOG,1,0.0
+1170,Pekingese - Maltese Mix,1,0.0
+1171,Boxer/Hound Mix,1,0.0
+1172,Mini Pinscher Mixed,1,0.0
+1173,Border Collie-Shepherd Mix,1,0.0
+1174,AUS.CATTLEDOG X,1,0.0
+1175,IBIZAN HOUND,1,0.0
+1176,HUSKY X LAB,1,0.0
+1177,ENGLISH MASTIFF,1,0.0
+1178,Shih Tzu/Lhasa,1,0.0
+1179,Shih tzu mix,1,0.0
+1180,AUSSIE DOXI   X,1,0.0
+1181,Cocker-Poo,1,0.0
+1182,FRENCHIE,1,0.0
+1183,KOOIKERHONDJE,1,0.0
+1184,retriever mix,1,0.0
+1185,Sheltie Poo,1,0.0
+1186,BEAGLE    X,1,0.0
+1187,FOX TERRIER X,1,0.0
+1188,Lhasa-Poo,1,0.0
+1189,FEIST MIX,1,0.0
+1190,CHIHUAHUA TERRIER,1,0.0
+1191,BEAGLE/COCKER SPANIEL MIX,1,0.0
+1192,MALTESE SHIHTZU,1,0.0
+1193,Miniature Dachshund,1,0.0
+1194,Boxer Chow Lab Mix,1,0.0
+1195,Lhasa/Malt,1,0.0
+1196,Peekapoo,1,0.0
+1197,MALTI-SHI,1,0.0
+1198,Peek -A-Poo,1,0.0
+1199,BRITISH LAB,1,0.0
+1200,Bichon/Shih Tzu,1,0.0
+1201,MASTIFF X,1,0.0
+1202,pointer mix,1,0.0
+1203,staffordshire Terrier mix,1,0.0
+1204,YORKSHIRE TERRI,1,0.0
+1205,MANCHESTER TERRIER,1,0.0
+1206,Beagle Mix,1,0.0
+1207,Miniature Pincher Mix,1,0.0
+1208,LABRADOR/FOX TERR MIX,1,0.0
+1209,BICHON POO,1,0.0
+1210,Pointer/Border Collie,1,0.0
+1211,Retreiver X,1,0.0
+1212,Chihuahua Mixed,1,0.0
+1213,Lab/Doberman/Sheepdog,1,0.0
+1214,Maltese/ Shih Tzu Mix,1,0.0
+1215,CHIH TERR,1,0.0
+1216,Poodle /Cocker Spaniel Mix,1,0.0
+1217,SHIH TZU/CHIHUAHAUA MIX,1,0.0
+1218,Shitzu X,1,0.0
+1219,MIN SCHNAUZER/MIN POODLE,1,0.0
+1220,border collie mix,1,0.0
+1221,Shepherd/Collie,1,0.0
+1222,Lab Bord Collie X,1,0.0
+1223,Yorkie / Maltese,1,0.0
+1224,Ori-Pei,1,0.0
+1225,Shih Tzu X,1,0.0
+1226,COLLIE/SHEP MIX,1,0.0
+1227,chi-spaniel,1,0.0
+1228,Glen Of Imaal Terrier,1,0.0
+1229,LAB/SHIBA INU  X,1,0.0
+1230,Goldendoddle,1,0.0
+1231,Mixed breed,1,0.0
+1232,Bull Mastiff Mix,1,0.0
+1233,TEACUP MALTESE,1,0.0
+1234,Irish Weaton,1,0.0
+1235,JOY FOX TERRIER,1,0.0
+1236,Terrier/Corgi Mix,1,0.0
+1237,RED NOSE PIT BULL,1,0.0
+1238,IR TERR/BAS HOU,1,0.0
+1239,POODLE/YORKY,1,0.0
+1240,BERNSES MOUNT DOG MIX,1,0.0
+1241,Lab Pointer Hound,1,0.0
+1242,CHIH POMER,1,0.0
+1243,Border Collie/Heeler Mix,1,0.0
+1244,ENG COCKER SPANIEL,1,0.0
+1245,Pinscher Mix,1,0.0
+1246,YORKER/JACKRUSELL/CHIHUAHUA,1,0.0
+1247,BORDER COLLIE/AUSTRALIAN SHEPHERD,1,0.0
+1248,Blue Nose Pit Bull /American Pit Bull Mix,1,0.0
+1249,Maltese / Shih Tzu Mix,1,0.0
+1250,Sheltie Mix,1,0.0
+1251,SPANIEL/CHIHUAHUA,1,0.0
+1252,Mix Poodle,1,0.0
+1253,YORKSHI/MALTESE,1,0.0
+1254,Maltese X,1,0.0
+1255,Terrier/Australian Mix,1,0.0
+1256,TIBETAN TERRIER MIX,1,0.0
+1257,JACK RUSSELL,1,0.0
+1258,labrador retriever/mix,1,0.0
+1259,LHASA/POODLE,1,0.0
+1260,MALT - POO,1,0.0
+1261,Mi-KI,1,0.0
+1262,SHIBA INU X,1,0.0
+1263,DACHSHUND   X,1,0.0
+1264,shih-tzu mix,1,0.0
+1265,CHISH X,1,0.0
+1266,CORGI/RETRIEV X,1,0.0
+1267,Malsish,1,0.0
+1268,CAVA POO,1,0.0
+1269,Louisiana Catahoula Leopard,1,0.0
+1270,Hound X,1,0.0
+1271,welsh terrier,1,0.0
+1272,Chow Chow/Bull Terr.Mix,1,0.0
+1273,PITBULL/MASTIFF MIX,1,0.0
+1274,CHI-POO,1,0.0
+1275,BICHON F/T PDLE,1,0.0
+1276,FOX TER/C.SPAN,1,0.0
+1277,Yorkie-Bichon,1,0.0
+1278,SHORKIE TZU,1,0.0
+1279,Shih Tzu / Poodle Mix,1,0.0
+1280,Cavalier,1,0.0
+1281,MIXED/AUSTRALIAN TERRIER,1,0.0
+1282,Westie-Poodle,1,0.0
+1283,Toy Austrialian Shepherd,1,0.0
+1284,German shepherd/Corgi,1,0.0
+1285,SHEP MIX,1,0.0
+1286,SHIHMALT,1,0.0
+1287,Lhaso Apso Mix,1,0.0
+1288,Xoloitzcuintli/Basset Hound,1,0.0
+1289,Jack Russell Terrier/Puggle,1,0.0
+1290,Terrier/Labrador X,1,0.0
+1291,Bull Dog / Beagle,1,0.0
+1292,PARSON RUSSELL TERR,1,0.0
+1293,Chi wee nie,1,0.0
+1294,Berger Pichard,1,0.0
+1295,LakelandTerrier,1,0.0
+1296,Shotzy Mix,1,0.0
+1297,TOY POODLE MIX,1,0.0
+1298,Shysuu Poodle Mini,1,0.0
+1299,Hound Cattle Dog,1,0.0
+1300,whoodle,1,0.0
+1301,Miniature Dacshund,1,0.0
+1302,BRUSSEL GRIFFON,1,0.0
+1303,WHIPPET MIX,1,0.0
+1304,Yorkshire Terrier/Dachshund Mix,1,0.0
+1305,LHASA APSO MIX,1,0.0
+1306,SILKY-POO,1,0.0
+1307,PORTUGESE W.DOG,1,0.0
+1308,YORKIDOODLE,1,0.0
+1309,WHOODLE,1,0.0
+1310,Labra Doodle,1,0.0
+1311,chihuahua-yorkie,1,0.0
+1312,Havenese/Shih-Tzu Mix,1,0.0
+1313,Coonhound/Shepherd Mix,1,0.0
+1314,HUSKY/KELPIE,1,0.0
+1315,BEAGLE / JACK RUSSELL  X,1,0.0
+1316,Staffordshire/Pit,1,0.0
+1317,DACHSHUND / DOXIE,1,0.0
+1318,Viszla Mix,1,0.0
+1319,Poodle/pomeranian mix,1,0.0
+1320,Cocker Spaniel/Poodle Mix,1,0.0
+1321,Jack Russell / Pug Mix,1,0.0
+1322,HAVACOV,1,0.0
+1323,Amer.Eskimo Dog Mix,1,0.0
+1324,Tibetan Terrier/Havanese Mix,1,0.0
+1325,SHIHTZU-A-POO,1,0.0
+1326,PEKA-POO,1,0.0
+1327,Peke-A-Poo/Shih-Poo,1,0.0
+1328,Beagle/English Bull Dog,1,0.0
+1329,SHORKY,1,0.0
+1330,GOLDEN RETR/CORGY MIX,1,0.0
+1331,Chihuahua/Yorkshire Terrier,1,0.0
+1332,CHIH/POO,1,0.0
+1333,Chocolate Labrador Retriever,1,0.0
+1334,Rat Terrier   X,1,0.0
+1335,Peke-A-Pom,1,0.0
+1336,Yorkshire/Poodle,1,0.0
+1337,BL NOSE PIT BULL,1,0.0
+1338,Great Swiss Mountain Dog,1,0.0
+1339,MINI AUST SHEP,1,0.0
+1340,Golden Retriever/Labrador Mix,1,0.0
+1341,YORKIE/WESTY   X,1,0.0
+1342,DACHSUND / MIX,1,0.0
+1343,MALTESE/YORKIE,1,0.0
+1344,TEACUP POODLE,1,0.0
+1345,MALT/YORKSHIRE TERRIER,1,0.0
+1346,Catahoula Leopard/Mix,1,0.0
+1347,Cocker Spaniel/Miniature Poodle,1,0.0
+1348,maltese/ yorkie,1,0.0
+1349,Westi-Poo,1,0.0
+1350,Shipa,1,0.0
+1351,PEAGLE,1,0.0
+1352,LABRADOR/COLLIE,1,0.0
+1353,Shih Tzu/Papillion,1,0.0
+1354,Lab-Chow-Newfie Mix,1,0.0
+1355,Bull Dog/Sher pei Mixed,1,0.0
+1356,LHASA-POO,1,0.0
+1357,Beagle/Dachsund,1,0.0
+1358,Havanese/Cavalier King Charles mix,1,0.0
+1359,bichon-poodle mix,1,0.0
+1360,Feist Mix,1,0.0
+1361,SHEPARD MIX,1,0.0
+1362,Dachshund/Poodle mix,1,0.0
+1363,Bichon-Poo,1,0.0
+1364,Terrier/Pointer Mix,1,0.0
+1365,CHIWEENIE,1,0.0
+1366,Beagle / Mix,1,0.0
+1367,MINI LABRADOODLE,1,0.0
+1368,Shih Tzu / Yorkie Mix,1,0.0
+1369,S.C.WHEATEN TER,1,0.0
+1370,YORKIE-SHIH TZU,1,0.0
+1371,YORKIE RAT TERR,1,0.0
+1372,CATAHOULA LEOPARD CUR,1,0.0
+1373,Long Hair Chihuahua,1,0.0
+1374,BASSETT TERRIER MIX,1,0.0
+1375,Yorkshire/Maltese,1,0.0
+1376,Possibly a Parson Russell Terrier mixed with Chiwa,1,0.0
+1377,Husky and Akita Mix,1,0.0
+1378,Taiwan Mountain,1,0.0
+1379,Labrador/Coon Hound,1,0.0
+1380,peke-a-poo,1,0.0
+1381,Shih tzo mix,1,0.0
+1382,Caroline Dog,1,0.0
+1383,lab/border collie mix,1,0.0
+1384,Aussie Cattle Dog Heeler,1,0.0
+1385,Collie Shepherd Mix,1,0.0
+1386,IRISH JACK RUSS,1,0.0
+1387,Havanese Mix,1,0.0
+1388,ShihTzu/Poodle,1,0.0
+1389,Maltese / Shih tzu,1,0.0
+1390,AUS SHEPHERD/BORDER COLLIE MIX,1,0.0
+1391,Jack Russell Terrier- Chihuahua Mix,1,0.0
+1392,Havanese/Chihuahua,1,0.0
+1393,Jack Russell/Shih Tzu Mix,1,0.0
+1394,Border Collie X,1,0.0
+1395,PUG/CHIHU/POMER,1,0.0
+1396,BEARDED COLLIE,1,0.0
+1397,Dachshund / Retriever Mix,1,0.0
+1398,POOCHON,1,0.0
+1399,ITALIAN SPINONE,1,0.0
+1400,Labrador/G.Shep,1,0.0
+1401,BLACK LAB MULTI,1,0.0
+1402,AM TERRIER,1,0.0
+1403,MAERICAN STAFFORDSHIRE MIX,1,0.0
+1404,Matipoo,1,0.0
+1405,Morky,1,0.0
+1406,beagle / dachshund,1,0.0
+1407,Shih Chon,1,0.0
+1408,dachshund/chihuahua mix,1,0.0
+1409,pekopoo,1,0.0
+1410,NO IDEA,1,0.0
+1411,Cocoer-poo,1,0.0
+1412,Poodle/Jack Russel Terrier  mix,1,0.0
+1413,Pit Bull/Mastiff,1,0.0
+1414,Corgi Rat Terrier,1,0.0
+1415,Yorkshire Terrier Mix,1,0.0
+1416,Mini Pin Mixed,1,0.0
+1417,HAVA POO,1,0.0
+1418,POODLE/SCHNZR X,1,0.0
+1419,hound-cattle dog,1,0.0
+1420,SCHNOODLE X,1,0.0
+1421,Catahoula Lab mix,1,0.0
+1422,PIT BULL TERRIER,1,0.0
+1423,Spaniel/Labrador,1,0.0
+1424,Rescued. Beagle/shih tzu,1,0.0
+1425,PERKINGESE/DASCHUND MIX,1,0.0
+1426,Boston Terrier / Lhasa Apso,1,0.0
+1427,poodle mix,1,0.0
+1428,Terrier/ Whippet,1,0.0
+1429,Havanese/Coton Detulear,1,0.0
+1430,SHEPHERD  MIX,1,0.0
+1431,SHIH TZU / YORKIE,1,0.0
+1432,TERRIER   X,1,0.0
+1433,HAVAPOO,1,0.0
+1434,Australian Shepard mix?,1,0.0
+1435,AKITA MIX,1,0.0
+1436,ENGLISH COCKER SPANIEL,1,0.0
+1437,SILKY TERRIER X,1,0.0
+1438,unknown mix,1,0.0
+1439,YORKIE TERR MIX,1,0.0
+1440,Lab Bord Collie,1,0.0
+1441,labrador/cattle dog,1,0.0
+1442,Pomapoo,1,0.0
+1443,Yorkshire Terr. Mix,1,0.0
+1444,Small Munsterlander,1,0.0
+1445,Cocker/Cavalier,1,0.0
+1446,min pi n/poodle,1,0.0
+1447,AMERICAN SPANIEL MIX,1,0.0
+1448,SHIH TZU/BICHON FRISE MIX,1,0.0
+1449,CHIHUAHUA/PUG MIX,1,0.0
+1450,GERMAN SHEPHARD ROTTWEILER,1,0.0
+1451,Puggle/Beagle Mix,1,0.0
+1452,Schnauzer/Poodle,1,0.0
+1453,"SHIH-TZU, POODLE",1,0.0
+1454,JACK RUSSELL TERR MIX,1,0.0
+1455,AM STAFF TER X,1,0.0
+1456,Whippet Mix,1,0.0
+1457,JACK RUSS TERR/CHIHUAHUA,1,0.0
+1458,collie- shepherd mix,1,0.0
+1459,Hound x,1,0.0
+1460,chih jack russ,1,0.0
+1461,Chintese,1,0.0
+1462,Lhasa Apso - Poodle Mix,1,0.0
+1463,TERRIER MX,1,0.0
+1464,Bichon Poo,1,0.0
+1465,Aierdale Terrier,1,0.0
+1466,Labrador Retriever-Border Collie Mix,1,0.0
+1467,Canaan,1,0.0
+1468,Siberian Husky/Labrador Mix,1,0.0
+1469,Boxer-Lab X,1,0.0
+1470,english mastiff,1,0.0
+1471,BRUSS GRIFFON X,1,0.0
+1472,beagle/hound,1,0.0
+1473,DACHS/SHIH TZU,1,0.0
+1474,Poddle&Maltese Mix,1,0.0
+1475,Red Tick Coonhound,1,0.0
+1476,Multi-Poo,1,0.0
+1477,BULL DOG MIX,1,0.0
+1478,Shih Tzu/Terrier,1,0.0
+1479,Boston Terrier Mix,1,0.0
+1480,Snoodle,1,0.0
+1481,Collie mix,1,0.0
+1482,Lab terr x,1,0.0
+1483,Germ Shep/Husky,1,0.0
+1484,retriver mixed,1,0.0
+1485,BICHON MIX,1,0.0
+1486,ENGLISH SHEPHER,1,0.0
+1487,Coton,1,0.0
+1488,shit zu/poodle,1,0.0
+1489,Doxen/ Petit Basset Griffon Vendeen,1,0.0
+1490,BICHON/CAIRN,1,0.0
+1491,COLLIE RETRIEVER MIX,1,0.0
+1492,lab terr mix,1,0.0
+1493,yorkie/maltese,1,0.0
+1494,BEARDED COLLIE MIX,1,0.0
+1495,Pug/Beagle,1,0.0
+1496,TOY MALTESE,1,0.0
+1497,french bulldog/pug,1,0.0
+1498,Chihuahua/ Dachshund,1,0.0
+1499,HOUND/YELLOW LABRADOR,1,0.0
+1500,LHASA-BIJON,1,0.0
+1501,Cocker-Pug,1,0.0
+1502,CHOW CHOW X,1,0.0
+1503,GER/BOR COLL X,1,0.0
+1504,chihuahua/mini pinscher,1,0.0
+1505,boxer/pit mix,1,0.0
+1506,Basenji Mix,1,0.0
+1507,Chinese Crested Powder Puff,1,0.0
+1508,Maltese  / Poo,1,0.0
+1509,Askal,1,0.0
+1510,SHIFFON,1,0.0
+1511,Pit Bull/Shepherd,1,0.0
+1512,Miniature Schnauzer/Silky Terrier,1,0.0
+1513,SPANISH WT.DOG,1,0.0
+1514,Mini Poodle Mix,1,0.0
+1515,BEAGLE MIX,1,0.0
+1516,SHICON,1,0.0
+1517,AMERICAN BULLDOG,1,0.0
+1518,Mix Hound,1,0.0
+1519,Shih Tzu/Maltese Mix,1,0.0
+1520,Mini Shepherd X,1,0.0
+1521,GERMAN SHEPHERD,1,0.0
+1522,SHARPEI / PUGGLE,1,0.0
+1523,Terrier / Hound,1,0.0
+1524,MINIATURE BULL DOG,1,0.0
+1525,LABRADO/GREAT D,1,0.0
+1526,Boxer/Terrier Mix,1,0.0
+1527,Mahshih,1,0.0
+1528,BEAGLE/SHEPHERD MIX,1,0.0
+1529,Lhasa Apso/Poodle,1,0.0
+1530,Yorkie/Beagle X,1,0.0
+1531,Rottweiler/Chow Mix,1,0.0
+1532,Jack Russ Terr Mix,1,0.0
+1533,AUST.CATTLE DOG,1,0.0
+1534,dachshund mix,1,0.0
+1535,mostly labrador retriever,1,0.0
+1536,POTCAKE,1,0.0
+1537,MALTE-POO,1,0.0
+1538,Jack Russell & Fox Terrier,1,0.0
+1539,Husky Mix,1,0.0
+1540,WESTMINSTER TER,1,0.0
+1541,6152012,1,0.0
+1542,Chihuahua/terrier,1,0.0
+1543,YORKIE/SHIH TZU MIX,1,0.0
+1544,Puggle (Pug Mix),1,0.0
+1545,Yorki-poodle,1,0.0
+1546,CHIHUA/TER/DSCH,1,0.0
+1547,YORKIE POO GREZLEY,1,0.0
+1548,Yorkie/Terrier/Bichon,1,0.0
+1549,Mini Labra-Doodle,1,0.0
+1550,German Shepherd/Husky,1,0.0
+1551,Bull Dog Mix,1,0.0
+1552,YORKI/POODLE,1,0.0
+1553,golden retreiver/great prenees,1,0.0
+1554,Bugg,1,0.0
+1555,CORGI/RETRIEVER MIX,1,0.0
+1556,Mixed Chow,1,0.0
+1557,wire haired terrier,1,0.0
+1558,Shit-zu mix,1,0.0
+1559,Chow Chow X,1,0.0
+1560,BERGAMASCO,1,0.0
+1561,AUSTRALIAN LABRADOODLE,1,0.0
+1562,Chihuahua /Poodle,1,0.0
+1563,Mixed / ?,1,0.0
+1564,ori pei,1,0.0
+1565,Havanese/Poodle,1,0.0
+1566,MINIATURE SCHNAUZER,1,0.0
+1567,CROSS BREED,1,0.0
+1568,Mini Australian Shepherd,1,0.0
+1569,Yorkie-Poo Mix,1,0.0
+1570,Pomeranian/ mix,1,0.0
+1571,Soft Coat Weaton Terrier,1,0.0
+1572,Miniature Pin Mix,1,0.0
+1573,SHIHTZ/POODLE X,1,0.0
+1574,SOFTC WHEAT TER,1,0.0
+1575,YORKIESHIRE MALTESE,1,0.0
+1576,Poodle X,1,0.0
+1577,ENGLISH PUG,1,0.0
+1578,BLUE NOSE PIT BULL TERR,1,0.0
+1579,shih poo,1,0.0
+1580,Yorkie/Fox Terrier,1,0.0
+1581,Yellow Lab,1,0.0
+1582,Lhasa Apso /Shih Tzu,1,0.0
+1583,DACH / CHIH,1,0.0
+1584,MALTESE/CAV KIN,1,0.0
+1585,YORKIEPOO,1,0.0
+1586,Corgi or Jack Russell mixed with Black Lab and Pit,1,0.0
+1587,Pit Bull/German Shepherd,1,0.0
+1588,Boston Terrier-Beagle,1,0.0
+1589,Husky/Collie Mix,1,0.0
+1590,Border Collie-Black Labrador Retriever Mix,1,0.0
+1591,BRAUZER,1,0.0
+1592,Slorky,1,0.0
+1593,Yorkie/Bichon,1,0.0
